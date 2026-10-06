@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-06T16:56:25.865364+00:00",
+  "updated": "2026-10-06T17:08:27.012793+00:00",
   "news": [
+    {
+      "title": "राहुल गांधी का धरना और फिर हिरासत, जानिए पूरे दिन क्या हुआ",
+      "description": "लोकसभा में नेता प्रतिपक्ष और कांग्रेस सांसद राहुल गांधी को दिल्ली पुलिस ने मंगलवार को हिरासत में लिया. बाद में उन्हें रिहा कर दिया गया.",
+      "link": "https://www.bbc.com/hindi/watch/cv5yn5l548xwo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/22d9/live/982978f0-c1a7-11f1-8fa2-19a1e9b6288f.jpg",
+      "timestamp": 1791306262.0,
+      "pubDate": "Tue, 06 Oct 2026 17:04:22 GMT"
+    },
     {
       "title": "9 घंटे के धरने के बाद हिरासत में लिए गए राहुल गांधी रिहा, ज्ञानेश कुमार के ख़िलाफ़ विपक्ष का था प्रदर्शन",
       "description": "विपक्षी इंडिया ब्लॉक ने एसआईआर और ‘वोट चोरी’ के विरोध में संसद से चुनाव आयोग तक मार्च किया, जिसे पुलिस ने रोक दिया. राहुल गांधी ने चुनाव आयोग पर गंभीर आरोप लगाए, जबकि बीजेपी ने इन आरोपों को ख़ारिज किया.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/ijt7gf5o_kids-concentrations_625x300_06_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791294835.0,
       "pubDate": "Tue, 06 Oct 2026 19:23:55 +0530"
-    },
-    {
-      "title": "IIM अहमदाबाद के गोल्ड मेडलिस्ट शुभम गोयल की कहानी, इस दिग्गज टेक कंपनी में है लाखों का पैकेज",
-      "description": "IIM अहमदाबाद में जिस लड़के ने कभी टॉप किया था और गोल्ड मेडल हासिल किया था, आज वो दुनिया की बड़ी टेक कंपनी में लीडरशिप पोजिशन पर है. शुभम गोयल की कहानी काफी दिलचस्प है और उनका मानना है कि मेहनत के दम पर कुछ भी हासिल किया जा सकता है.",
-      "link": "https://ndtv.in/education/iim-ahmedabad-gold-medalist-shubham-goyal-success-story-leads-team-microsoft-canada-12142808#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/g7cr6p1k_iim-ahmedabad-gold-medalist-_625x300_05_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791294791.0,
-      "pubDate": "Tue, 06 Oct 2026 19:23:11 +0530"
     }
   ]
 }
