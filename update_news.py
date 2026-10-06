@@ -1,92 +1,177 @@
 import json
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone
 
-FEEDS = {
-    "hindi": [
-        "https://feeds.bbci.co.uk/hindi/rss.xml",
-        "https://feeds.feedburner.com/ndtvkhabar-latest",
-    ],
-    "english": [
-        "https://feeds.bbci.co.uk/news/rss.xml",
-        "https://www.indiatoday.in/rss/1206578",
-    ],
-}
+FEEDS = [
+    "https://feeds.bbci.co.uk/hindi/rss.xml",
+    "https://feeds.feedburner.com/ndtvkhabar-latest"
+]
 
 def clean(text):
     if not text:
         return ""
-    return " ".join(text.replace("<![CDATA[", "").replace("]]>", "").split())
+    text = re.sub(r"<!\[CDATA\[|\]\]>", "", text)
+    text = re.sub(r"<[^>]+>", " ", text)
 
-def get_news(url, limit=8):
+    for a, b in {
+        "&amp;": "&",
+        "&quot;": '"',
+        "&#39;": "'",
+        "&lt;": "<",
+        "&gt;": ">"
+    }.items():
+        text = text.replace(a, b)
+
+    return " ".join(text.split())
+
+
+def get_image(item):
+    for child in item:
+        tag = child.tag.lower()
+
+        if "thumbnail" in tag or "content" in tag:
+            url = child.attrib.get("url")
+            if url:
+                return url
+
+        if "enclosure" in tag:
+            url = child.attrib.get("url")
+            if url:
+                return url
+
+    description = item.findtext("description") or ""
+
+    match = re.search(
+        r'<img[^>]+src=["\']([^"\']+)',
+        description,
+        re.I
+    )
+
+    return match.group(1) if match else ""
+
+
+def fetch_feed(url):
     try:
         request = urllib.request.Request(
             url,
             headers={"User-Agent": "Mozilla/5.0"}
         )
 
-        with urllib.request.urlopen(request, timeout=20) as response:
+        with urllib.request.urlopen(
+            request,
+            timeout=20
+        ) as response:
             data = response.read()
 
         root = ET.fromstring(data)
-        items = []
+        results = []
 
-        for item in root.findall(".//item")[:limit]:
+        for item in root.findall(".//item"):
+
             title = clean(item.findtext("title"))
             link = clean(item.findtext("link"))
-            description = clean(item.findtext("description"))
-            pub_date = clean(item.findtext("pubDate"))
+            description = clean(
+                item.findtext("description")
+            )
+            pub_date = clean(
+                item.findtext("pubDate")
+            )
+            source = clean(
+                item.findtext("source")
+            )
+            image = get_image(item)
 
             if not title or not link:
                 continue
 
-            items.append({
+            timestamp = 0
+
+            try:
+                timestamp = parsedate_to_datetime(
+                    pub_date
+                ).timestamp()
+            except Exception:
+                pass
+
+            results.append({
                 "title": title,
-                "description": description[:220],
+                "description": description[:300],
                 "link": link,
+                "source": source,
+                "image": image,
+                "timestamp": timestamp,
                 "pubDate": pub_date
             })
 
-        return items
+        return results
 
-    except Exception as e:
-        print("Feed error:", url, e)
+    except Exception as error:
+        print("Feed error:", url)
+        print(error)
         return []
 
-news = {
-    "updated": datetime.now(timezone.utc).isoformat(),
-    "hindi": [],
-    "english": []
-}
 
-for url in FEEDS["hindi"]:
-    news["hindi"].extend(get_news(url))
+all_news = []
 
-for url in FEEDS["english"]:
-    news["english"].extend(get_news(url))
+for feed in FEEDS:
+    all_news.extend(fetch_feed(feed))
+
+
+all_news.sort(
+    key=lambda x: x["timestamp"],
+    reverse=True
+)
+
 
 # Duplicate headlines हटाना
-def unique(items):
-    seen = set()
-    result = []
+unique = []
+seen = set()
 
-    for item in items:
-        key = item["title"].lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        result.append(item)
+for item in all_news:
 
-    return result[:10]
+    key = re.sub(
+        r"[^a-zA-Z0-9\u0900-\u097F]",
+        "",
+        item["title"].lower()
+    )
 
-news["hindi"] = unique(news["hindi"])
-news["english"] = unique(news["english"])
+    if key in seen:
+        continue
 
-with open("news.json", "w", encoding="utf-8") as f:
-    json.dump(news, f, ensure_ascii=False, indent=2)
+    seen.add(key)
+    unique.append(item)
 
-print("News updated successfully.")
-print("Hindi:", len(news["hindi"]))
-print("English:", len(news["english"]))
+
+# आज उपलब्ध latest news का pool
+news_pool = unique[:20]
+
+
+output = {
+    "updated": datetime.now(
+        timezone.utc
+    ).isoformat(),
+    "news": news_pool
+}
+
+
+with open(
+    "news.json",
+    "w",
+    encoding="utf-8"
+) as file:
+
+    json.dump(
+        output,
+        file,
+        ensure_ascii=False,
+        indent=2
+    )
+
+
+print("NEWS UPDATED:", len(news_pool))
+
+for i, item in enumerate(news_pool, 1):
+    print(i, item["title"])

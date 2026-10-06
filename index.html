@@ -1,337 +1,541 @@
 <!DOCTYPE html>
 <html lang="hi">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Anurag | Latest News</title>
+<meta charset="UTF-8">
 
-  <style>
-    * {
-      box-sizing: border-box;
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Anurag Yadav</title>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    font-family:
+        Arial,
+        "Noto Sans Devanagari",
+        sans-serif;
+
+    background:
+        radial-gradient(
+            circle at 10% 0%,
+            #dbeafe,
+            transparent 32%
+        ),
+        radial-gradient(
+            circle at 100% 100%,
+            #fce7f3,
+            transparent 32%
+        ),
+        #f8fafc;
+
+    color: #111827;
+}
+
+.header {
+    text-align: center;
+    padding: 28px 18px 24px;
+    animation: headerIn .8s ease;
+}
+
+.profile {
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid white;
+
+    box-shadow:
+        0 10px 30px rgba(0,0,0,.16);
+
+    animation:
+        floating 3s ease-in-out infinite;
+}
+
+.logo {
+    margin-top: 12px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.subtitle {
+    margin-top: 5px;
+    color: #64748b;
+    font-size: 14px;
+}
+
+.instagram {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    border-radius: 30px;
+
+    background:
+        linear-gradient(
+            135deg,
+            #833ab4,
+            #fd1d1d,
+            #fcb045
+        );
+
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+
+    box-shadow:
+        0 8px 22px
+        rgba(253,29,29,.22);
+
+    transition: .25s;
+}
+
+.instagram:hover {
+    transform:
+        translateY(-3px)
+        scale(1.03);
+}
+
+.container {
+    width: 100%;
+    max-width: 720px;
+    margin: auto;
+    padding: 5px 14px 45px;
+}
+
+.section-title {
+    font-size: 21px;
+    font-weight: 800;
+    margin: 10px 0 16px;
+}
+
+.news-card {
+    overflow: hidden;
+    background: white;
+    border-radius: 22px;
+
+    border:
+        1px solid
+        rgba(148,163,184,.2);
+
+    box-shadow:
+        0 18px 50px
+        rgba(15,23,42,.12);
+
+    animation:
+        newsIn .7s ease;
+
+    transition: .3s;
+}
+
+.news-card:hover {
+    transform: translateY(-5px);
+
+    box-shadow:
+        0 24px 60px
+        rgba(15,23,42,.16);
+}
+
+.news-image {
+    width: 100%;
+    height: 320px;
+    display: block;
+    object-fit: cover;
+
+    background:
+        linear-gradient(
+            135deg,
+            #dbeafe,
+            #fce7f3
+        );
+}
+
+.content {
+    padding: 20px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 6px 11px;
+    border-radius: 20px;
+
+    background: #eef2ff;
+    color: #4338ca;
+
+    font-size: 11px;
+    font-weight: 800;
+}
+
+.headline {
+    font-size: 23px;
+    line-height: 1.45;
+    margin: 12px 0 10px;
+    font-weight: 800;
+}
+
+.description {
+    color: #475569;
+    font-size: 15px;
+    line-height: 1.7;
+    margin-bottom: 13px;
+}
+
+.source {
+    color: #64748b;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+.read {
+    display: inline-block;
+    background: #111827;
+    color: white;
+    text-decoration: none;
+
+    padding:
+        11px 18px;
+
+    border-radius: 12px;
+    font-size: 13px;
+    font-weight: 700;
+
+    transition: .25s;
+}
+
+.read:hover {
+    transform: translateX(4px);
+}
+
+.loading {
+    background: white;
+    border-radius: 20px;
+    padding: 45px 20px;
+    text-align: center;
+    color: #64748b;
+}
+
+footer {
+    text-align: center;
+    color: #94a3b8;
+    font-size: 12px;
+    padding: 15px 20px 30px;
+}
+
+@keyframes headerIn {
+
+    from {
+        opacity: 0;
+        transform: translateY(-25px);
     }
 
-    body {
-      margin: 0;
-      background: #f6f7f9;
-      color: #171717;
-      font-family: Arial, "Noto Sans Devanagari", sans-serif;
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes newsIn {
+
+    from {
+        opacity: 0;
+        transform:
+            translateY(25px)
+            scale(.98);
     }
 
-    .top {
-      background: #ffffff;
-      border-bottom: 1px solid #e5e7eb;
-      padding: 24px 18px 20px;
-      text-align: center;
+    to {
+        opacity: 1;
+        transform:
+            translateY(0)
+            scale(1);
+    }
+}
+
+@keyframes floating {
+
+    0%, 100% {
+        transform: translateY(0);
     }
 
-    .profile {
-      width: 82px;
-      height: 82px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 3px solid #111827;
+    50% {
+        transform: translateY(-6px);
     }
+}
 
-    h1 {
-      margin: 10px 0 4px;
-      font-size: 28px;
-    }
+@media (max-width:600px) {
 
-    .subtitle {
-      color: #666;
-      font-size: 14px;
-      margin-bottom: 14px;
-    }
-
-    .instagram {
-      display: inline-block;
-      background: #111827;
-      color: white;
-      text-decoration: none;
-      padding: 9px 18px;
-      border-radius: 20px;
-      font-size: 14px;
-    }
-
-    .container {
-      max-width: 760px;
-      margin: auto;
-      padding: 25px 18px 40px;
-    }
-
-    .section-title {
-      font-size: 21px;
-      font-weight: 700;
-      margin: 0 0 18px;
-    }
-
-    .news-list {
-      background: white;
-      border-radius: 12px;
-      padding: 5px 18px;
-      border: 1px solid #e5e7eb;
-    }
-
-    .news-item {
-      padding: 18px 0;
-      border-bottom: 1px solid #eeeeee;
-    }
-
-    .news-item:last-child {
-      border-bottom: none;
+    .news-image {
+        height: 230px;
     }
 
     .headline {
-      font-size: 17px;
-      line-height: 1.55;
-      font-weight: 600;
-      margin: 0 0 7px;
+        font-size: 20px;
     }
+}
 
-    .description {
-      color: #555;
-      font-size: 14px;
-      line-height: 1.6;
-      margin: 0 0 8px;
-    }
+</style>
 
-    .source {
-      font-size: 12px;
-      color: #777;
-      margin-bottom: 8px;
-    }
-
-    .read {
-      color: #155eef;
-      text-decoration: none;
-      font-size: 13px;
-      font-weight: 600;
-    }
-
-    .english-section {
-      margin-top: 38px;
-    }
-
-    .loading {
-      color: #777;
-      text-align: center;
-      padding: 20px 0;
-      font-size: 14px;
-    }
-
-    .error {
-      color: #b42318;
-      text-align: center;
-      padding: 20px 0;
-      font-size: 14px;
-    }
-
-    footer {
-      text-align: center;
-      color: #888;
-      font-size: 12px;
-      padding: 20px;
-    }
-  </style>
 </head>
 
 <body>
 
-  <header class="top">
+<header class="header">
+
     <img
-      src="anurag.jpg"
-      alt="Anurag"
-      class="profile"
+        src="anurag.jpg"
+        class="profile"
+        alt="Anurag"
     >
 
-    <h1>Anurag</h1>
+    <div class="logo">
+        Anurag Yadav
+    </div>
 
     <div class="subtitle">
-      Latest News • India & World
+        आज की महत्वपूर्ण खबर
     </div>
 
     <a
-      class="instagram"
-      href="https://instagram.com/ydv._anurag"
-      target="_blank"
-      rel="noopener noreferrer"
+        class="instagram"
+        href="https://instagram.com/ydv._anurag"
+        target="_blank"
+        rel="noopener noreferrer"
     >
-      Instagram
+        Instagram
     </a>
-  </header>
+
+</header>
 
 
-  <main class="container">
+<main class="container">
 
-    <!-- HINDI NEWS -->
-    <section>
-      <h2 class="section-title">🇮🇳 आज की Latest News</h2>
+    <div class="section-title">
+        🔥 आज की Trending News
+    </div>
 
-      <div id="hindiNews" class="news-list">
+    <div id="news">
+
         <div class="loading">
-          Latest Hindi news लोड हो रही है...
+            आज की खबर लोड हो रही है...
         </div>
-      </div>
-    </section>
+
+    </div>
+
+</main>
 
 
-    <!-- ENGLISH NEWS -->
-    <section class="english-section">
-      <h2 class="section-title">🌍 Latest English News</h2>
-
-      <div id="englishNews" class="news-list">
-        <div class="loading">
-          Latest English news लोड हो रही है...
-        </div>
-      </div>
-    </section>
-
-  </main>
+<footer>
+    Made by Anurag Yadav
+</footer>
 
 
-  <footer>
-    © 2026 Anurag
-  </footer>
+<script>
+
+function escapeHTML(text) {
+
+    const div =
+        document.createElement("div");
+
+    div.textContent =
+        text || "";
+
+    return div.innerHTML;
+}
 
 
-  <script>
+async function loadNews() {
 
-    async function loadNews() {
+    const box =
+        document.getElementById("news");
 
-      const hindiBox = document.getElementById("hindiNews");
-      const englishBox = document.getElementById("englishNews");
+    try {
 
-      try {
-
-        const response = await fetch(
-          "news.json?time=" + Date.now(),
-          {
-            cache: "no-store"
-          }
-        );
+        const response =
+            await fetch(
+                "news.json?v=" +
+                Date.now(),
+                {
+                    cache: "no-store"
+                }
+            );
 
         if (!response.ok) {
-          throw new Error("News file not found");
+            throw new Error();
         }
 
-        const data = await response.json();
+        const data =
+            await response.json();
 
-        showNews(
-          hindiBox,
-          data.hindi || [],
-          "hi"
-        );
-
-        showNews(
-          englishBox,
-          data.english || [],
-          "en"
-        );
-
-      } catch (error) {
-
-        hindiBox.innerHTML =
-          '<div class="error">अभी खबरें लोड नहीं हो सकीं। थोड़ी देर बाद फिर कोशिश करें।</div>';
-
-        englishBox.innerHTML =
-          '<div class="error">News could not be loaded right now.</div>';
-
-      }
-
-    }
+        const news =
+            data.news || [];
 
 
-    function showNews(box, news, language) {
+        if (!news.length) {
 
-      if (!news.length) {
+            box.innerHTML = `
+                <div class="loading">
+                    📰 आज की खबरें
+                    अभी update हो रही हैं।
+                </div>
+            `;
 
-        box.innerHTML =
-          language === "hi"
-            ? '<div class="loading">अभी कोई खबर उपलब्ध नहीं है।</div>'
-            : '<div class="loading">No news available right now.</div>';
-
-        return;
-      }
-
-
-      box.innerHTML = "";
-
-
-      news.slice(0, 10).forEach(item => {
-
-        const article = document.createElement("article");
-
-        article.className = "news-item";
-
-
-        const title = document.createElement("p");
-
-        title.className = "headline";
-
-        title.textContent = item.title || "";
-
-
-
-        const description = document.createElement("p");
-
-        description.className = "description";
-
-        description.textContent =
-          item.description || "";
-
-
-
-        const source = document.createElement("div");
-
-        source.className = "source";
-
-        source.textContent =
-          item.source
-            ? "Source: " + item.source
-            : "Trusted News Source";
-
-
-
-        const link = document.createElement("a");
-
-        link.className = "read";
-
-        link.href = item.link || "#";
-
-        link.target = "_blank";
-
-        link.rel = "noopener noreferrer";
-
-        link.textContent =
-          language === "hi"
-            ? "पूरी खबर पढ़ें →"
-            : "Read full story →";
-
-
-
-        article.appendChild(title);
-
-        if (item.description) {
-          article.appendChild(description);
+            return;
         }
 
-        article.appendChild(source);
 
-        article.appendChild(link);
+        /*
+        आज की news में से
+        refresh पर अगली खबर।
+        */
+
+        const today =
+            new Date()
+            .toLocaleDateString(
+                "en-CA"
+            );
+
+        const storageKey =
+            "anurag-news-" + today;
 
 
-        box.appendChild(article);
+        let index =
+            parseInt(
+                localStorage.getItem(
+                    storageKey
+                ),
+                10
+            );
 
-      });
 
+        if (
+            Number.isNaN(index) ||
+            index < 0 ||
+            index >= news.length
+        ) {
+
+            index = 0;
+
+        } else {
+
+            index =
+                (index + 1)
+                % news.length;
+        }
+
+
+        localStorage.setItem(
+            storageKey,
+            index
+        );
+
+
+        const item =
+            news[index];
+
+
+        box.innerHTML = `
+
+            <article class="news-card">
+
+                ${
+                    item.image
+                    ?
+                    `
+                    <img
+                        class="news-image"
+                        src="${item.image}"
+                        alt="News"
+                    >
+                    `
+                    :
+                    `
+                    <div
+                        class="news-image"
+                        style="
+                            display:flex;
+                            align-items:center;
+                            justify-content:center;
+                            font-size:70px;
+                        "
+                    >
+                        📰
+                    </div>
+                    `
+                }
+
+                <div class="content">
+
+                    <span class="badge">
+                        TODAY • TRENDING
+                    </span>
+
+                    <h1 class="headline">
+                        ${escapeHTML(item.title)}
+                    </h1>
+
+                    ${
+                        item.description
+                        ?
+                        `
+                        <div class="description">
+                            ${escapeHTML(
+                                item.description
+                            )}
+                        </div>
+                        `
+                        :
+                        ""
+                    }
+
+                    <div class="source">
+                        Source:
+                        ${escapeHTML(
+                            item.source ||
+                            "Trusted News"
+                        )}
+                    </div>
+
+                    <a
+                        class="read"
+                        href="${item.link}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="read"
+                    >
+                        पूरी खबर पढ़ें →
+                    </a>
+
+                </div>
+
+            </article>
+
+        `;
+
+    } catch {
+
+        box.innerHTML = `
+            <div class="loading">
+                📰 आज की खबरें
+                update हो रही हैं।
+            </div>
+        `;
     }
+}
 
 
-    loadNews();
+loadNews();
 
-  </script>
+</script>
 
 </body>
 </html>
-
