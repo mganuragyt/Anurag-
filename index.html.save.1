@@ -1,0 +1,558 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"    box-sizing:border-box;
+}
+
+html
+    scroll-behavior:smooth;
+}
+
+bod{
+    min-height:100vh;
+   font-family:Arial, sans-serif;
+    color:white;
+    overflow-x:hidden
+    background:
+    radial-gradient(circle at 20% 10%, #8b2cff55, transparent 30%),
+    radial-gradient(ircle at 90% 60%, #ff2ca655, transparent 30%),
+    linear-g135deg,#080014,#21003a,#090014);
+}
+
+
+/* Floating lights */
+.light{
+    position:fixed;
+    width:7px;
+    height:7px
+    background:white;
+    border-raius:50%;
+    opacity:5;
+   events:none;
+    animation:float 7s infinite ease-in-out;
+}
+
+.light:nth-child(1){
+   left:10%;
+    top:20%;
+}
+
+.ight:nth-child(2){
+    left:80%;
+   top:25%;
+    animation-delay:2s;}
+
+.light:nth-child(3){
+    
+    top:70%;
+    animation-delay:4s;
+}
+.light:nth-child(4){
+    left:20%;
+   top:85%;
+    animation-delay:1s;
+}
+@keyframes float{
+    0%,100%{
+        transform:translateY(0);
+        opacity:
+
+    50%{
+        transfom:translateY(-80px);
+        opacity:.9;
+    }
+}
+
+/* Header */
+header{
+    text-align:center;    padding:55px 20px
+header h1{
+
+    font-size:55px;
+
+    background
+    linear-gradient(
+        90deg,
+        #ff82d8,
+        #fffff,
+        #b99aff,
+        #ff82d8
+    )
+
+    background-si
+    -webkit-background-clip:text;
+    background-clip:text;
+    color:transparent;
+
+    animation:shine 5s lnear infinite;
+}
+
+@keyframes shine{
+    0%{
+        background-position:0%;
+    }
+
+    100%
+background-position:300%;
+    }
+}
+header p{
+
+    margin-top:12px;
+
+    font-size:17px;
+    color:#dfc7eb;
+}
+
+/* Profile se
+.profile{
+
+    text-align:center;
+
+    padding:25px 20px 35px;
+
+
+
+/* YOUR PHOTO */
+.profile-photo{
+
+    width:165px;
+    hei;
+
+    object-fit:cover;
+
+    border-radius:50%;
+    border:5px solid white;
+
+    display:block;
+
+    margin:auto
+
+    box-shadow:
+        0 0 15px #ffffff,
+      x #ff45c8,
+       0 0 70px #7b4dff;
+
+    animation:
+        photoGlow 3s infinite alternate,
+       photoFloat 4s infinite ease-in-out;
+}
+
+
+@keframes photoGlow{
+
+    from{
+
+       box-shadow:
+        0 0 15px #f      0 0 30px #ff45c8,
+        0 0 55px #7b4dff;
+    }
+    to{
+
+        box-shadow:
+        0 0 20px #ffffff,
+       0 0 45px #ff45c8,
+        0 0 85px #7b4dff;
+   }
+}
+keyframes phot
+    0%,100%{
+        transform:translateY(0);
+    }
+    50%{
+        transform:translateY(-8px);
+    
+}
+
+
+.prfile h2{
+
+    margin-top:20px;
+    font-si
+
+    color:white;
+}
+.profile h2 span{
+
+    color:#ff9ddd;
+}
+
+profile p{
+    margin-top:9px;
+
+    color#d8bfdf;
+
+    font-size:16px;
+}
+
+
+/* Shayari area */
+
+.container{
+
+    width:92%;
+
+    max-width:850px;
+
+    margin:auto;
+}
+
+
+/* Shayari card */
+
+.card{
+
+    position:relative;
+
+    overflow:hidden;
+
+    margin:22px 0;
+
+    padding:32px 22px;
+
+    text-align:center;
+
+    border-radius:25px;
+
+    background:rgba(255,255,255,.09);
+
+    border:1px solid rgba(255,255,255,.18);
+
+    backdrop-filter:blur(14px);
+
+    box-shadow:
+        0 15px 40px rgba(0,0,0,.35);
+
+    transition:.4s;
+
+    animation:cardAppear 1s ease;
+}
+
+
+.card::before{
+
+    content:"";
+
+    position:absolute;
+
+    width:150px;
+    height:150px;
+
+    background:#ff42c8;
+
+    filter:blur(80px);
+
+    opacity:.18;
+
+    top:-70px;
+    left:-60px;
+}
+
+
+.card:hover{
+
+    transform:
+        translateY(-8px)
+        scale(1.01);
+
+    border-color:#ff9ddd;
+
+    box-shadow:
+        0 20px 55px #ff43c833;
+}
+
+
+@keyframes cardAppear{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(35px);
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+    }
+}
+
+
+/* Emoji */
+
+.icon{
+
+    font-size:38px;
+
+    margin-bottom:12px;
+
+    animation:heartbeat 1.8s infinite;
+}
+
+
+@keyframes heartbeat{
+
+    0%,100%{
+        transform:scale(1);
+    }
+
+    50%{
+        transform:scale(1.18);
+    }
+}
+
+
+.card h3{
+
+    color:#ffb6e7;
+
+    font-size:25px;
+
+    margin-bottom:15px;
+}
+
+
+.card p{
+
+    font-size:19px;
+
+    line-height:1.9;
+
+    color:#ffffff;
+}
+
+
+/* Button */
+
+.button{
+
+    display:inline-block;
+
+    margin-top:20px;
+
+    padding:12px 28px;
+
+    border-radius:30px;
+
+    color:white;
+
+    text-decoration:none;
+
+    background:
+    linear-gradient(
+        90deg,
+        #ff3db8,
+        #714cff
+    );
+
+    box-shadow:
+        0 8px 25px #ff3db844;
+
+    transition:.3s;
+}
+
+
+.button:hover{
+
+    transform:translateY(-4px);
+
+    box-shadow:
+        0 12px 35px #ff3db866;
+}
+
+
+/* Footer */
+
+footer{
+
+    text-align:center;
+
+    padding:45px 15px 25px;
+
+    color:#bca7c5;
+
+    font-size:14px;
+}
+
+
+footer strong{
+
+    color:#ff9ddd;
+}
+
+
+/* Mobile */
+
+@media(max-width:600px){
+
+    header h1{
+        font-size:43px;
+    }
+
+    .profile-photo{
+        width:145px;
+        height:145px;
+    }
+
+    .card p{
+        font-size:18px;
+    }
+
+}
+
+</style>
+</head>
+
+
+<body>
+
+
+<!-- Floating lights -->
+
+<div class="light"></div>
+<div class="light"></div>
+<div class="light"></div>
+<div class="light"></div>
+
+
+<!-- Header -->
+
+<header>
+
+    <h1>✨ Anurag ✨</h1>
+
+    <p>
+        कुछ अल्फ़ाज़... कुछ एहसास... ❤️
+    </p>
+
+</header>
+
+
+
+<!-- Profile -->
+
+<section class="profile">
+
+
+    <!-- YOUR PHOTO -->
+
+    <img
+        src="anurag.jpg"
+        alt="Anurag"
+        class="profile-photo"
+    >
+
+
+    <h2>
+        ❤️ <span>Anurag</span>
+    </h2>
+
+
+    <p>
+        शब्दों में दिल की बातें लिखने की एक छोटी सी कोशिश ✨
+    </p>
+
+
+</section>
+
+
+
+<!-- Shayari -->
+
+<main class="container">
+
+
+    <div class="card">
+
+        <div class="icon">
+            ❤️
+        </div>
+
+        <h3>
+            इश्क़
+        </h3>
+
+        <p>
+            तुम्हें सोचकर ही चेहरे पर मुस्कान आ जाती है,<br>
+            कुछ तो खास है तुममें,<br>
+            जो हर बार दिल को छू जाती है।
+        </p>
+
+    </div>
+
+
+
+    <div class="card">
+
+        <div class="icon">
+            🌸
+        </div>
+
+        <h3>
+            ज़िंदगी
+        </h3>
+
+        <p>
+            ज़िंदगी खूबसूरत है,<br>
+            बस इसे देखने का नज़रिया खूबसूरत होना चाहिए।
+        </p>
+
+    </div>
+
+
+
+    <div class="card">
+
+        <div class="icon">
+            ✨
+        </div>
+
+        <h3>
+            यादें
+        </h3>
+
+        <p>
+            कुछ लोग दूर होकर भी पास रहते हैं,<br>
+            उनकी यादों में हम हर पल खास रहते हैं।
+        </p>
+
+    </div>
+
+
+
+    <div class="card">
+
+        <div class="icon">
+            🌙
+        </div>
+
+        <h3>
+            खामोशी
+        </h3>
+
+        <p>
+            खामोशी भी बहुत कुछ कह जाती है,<br>
+            बस समझने वाला चाहिए।
+        </p>
+
+    </div>
+
+
+</main>
+
+
+
+<!-- Footer -->
+
+<footer>
+
+    Made with ❤️ by
+    <strong>Anurag</strong>
+
+</footer>
+
+
+</body>
+</html>
+

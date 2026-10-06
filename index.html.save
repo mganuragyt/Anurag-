@@ -1,0 +1,877 @@
+<html lang="hi">
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Anurag</title
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    min-height:100vh;
+    font-family:Arial, sans-serif;
+    color:white;
+    overflow-x:hiddn;
+
+    background:
+    radial-gradient(circle at 20% 10%, #8b2cff55, transparent 30%),
+    radial-gradient(circle at 90% 60%, #ff2ca655, transparent 30%),
+    linear-gradient(135deg,#080014,#21003a,#090014);
+}
+
+
+/* Floating lights */
+
+.light{
+    position:fixed;
+    width:7px;
+    height:7px;
+    background:white;
+    border-radius:50%;
+    opacity:.5;
+    pointer-events:none;
+    animation:float 7s infinite ease-in-out;
+}
+
+.light:nth-child(1){
+    left:10%;
+    top:20%;
+}
+
+.light:nth-child(2){
+    left:80%;
+    top:25%;
+    animation-delay:2s;
+}
+
+.light:nth-child(3){
+    left:45%;
+    top:70%;
+    animation-delay:4s;
+}
+
+.light:nth-child(4){
+    left:20%;
+    top:85%;
+    animation-delay:1s;
+}
+
+@keyframes float{
+
+    0%,100%{
+        transform:translateY(0);
+        opacity:.2;
+    }
+
+    50%{
+        transform:translateY(-80px);
+        opacity:.9;
+    }
+}
+
+
+/* Header */
+
+header{
+    text-align:center;
+    padding:55px 20px 25px;
+}
+
+header h1{
+
+    font-size:55px;
+
+    background:
+    linear-gradient(
+        90deg,
+        #ff82d8,
+        #ffffff,
+        #b99aff,
+        #ff82d8
+    );
+
+    background-size:300%;
+
+    -webkit-background-clip:text;
+    background-clip:text;
+
+    color:transparent;
+
+    animation:shine 5s linear infinite;
+}
+
+@keyframes shine{
+
+    0%{
+        background-position:0%;
+    }
+
+    100%{
+        background-position:300%;
+    }
+}
+
+header p{
+
+    margin-top:12px;
+
+    font-size:17px;
+
+    color:#dfc7eb;
+}
+
+
+/* Profile section */
+
+.profile{
+
+    text-align:center;
+
+    padding:25px 20px 35px;
+}
+
+
+/* YOUR PHOTO */
+
+.profile-photo{
+
+    width:165px;
+    height:165px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    border:5px solid white;
+
+    display:block;
+
+    margin:auto;
+
+    box-shadow:
+        0 0 15px #ffffff,
+        0 0 35px #ff45c8,
+        0 0 70px #7b4dff;
+
+    animation:
+        photoGlow 3s infinite alternate,
+        photoFloat 4s infinite ease-in-out;
+}
+
+
+@keyframes photoGlow{
+
+    from{
+
+        box-shadow:
+        0 0 15px #ffffff,
+        0 0 30px #ff45c8,
+        0 0 55px #7b4dff;
+    }
+
+    to{
+
+        box-shadow:
+        0 0 20px #ffffff,
+        0 0 45px #ff45c8,
+        0 0 85px #7b4dff;
+    }
+}
+
+
+@keyframes photoFloat{
+
+    0%,100%{
+        transform:translateY(0);
+    }
+
+    50%{
+        transform:translateY(-8px);
+    }
+}
+
+
+.profile h2{
+
+    margin-top:20px;
+
+    font-size:32px;
+
+    color:white;
+}
+
+.profile h2 span{
+
+    color:#ff9ddd;
+}
+
+
+.profile p{
+
+    margin-top:9px;
+
+    color:#d8bfdf;
+
+    font-size:16px;
+}
+
+
+/* Shayari area */
+
+.container{
+
+    width:92%;
+
+    max-width:850px;
+
+    margin:auto;
+}
+
+
+/* Shayari card */
+
+.card{
+
+    position:relative;
+
+    overflow:hidden;
+
+    margin:22px 0;
+
+    padding:32px 22px;
+
+    text-align:center;
+
+    border-radius:25px;
+
+    background:rgba(255,255,255,.09);
+
+    border:1p
+    background:#ff42c8;
+    filter:blur(80px)
+
+    opacity:.18
+
+    top:-70px
+    lef
+
+
+.card:hover{
+
+    trnsform:
+        translateY(-8px)
+        scale(1.01);
+
+      0 20px 55px #ff43c833;
+}
+
+
+@keyframes cardAppear{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(35px);
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+    }
+}
+
+
+/* Emoji */
+
+.icon{
+
+    font-size:38px;
+
+    margin-bottom:12px;
+
+    animation:heartbeat 1.8s infinite;
+}
+
+
+@keyframes heartbeat{
+
+    0%,100%{
+        transform:scale(1);
+    }
+
+    50%{
+        transform:scale(1.18);
+    }
+}
+
+
+.card h3{
+
+    color:#ffb6e7;
+
+    font-size:25px;
+
+    margin-bottom:15px;
+}
+
+
+.card p{
+
+    font-size:19px;
+
+    line-height:1.9;
+
+    color:#ffffff;
+}
+
+
+/* Button */
+
+.button{
+
+    display:inline-block;
+
+    margin-top:20px;
+
+    padding:12px 28px;
+
+    border-radius:30px;
+
+    color:white;
+
+    text-decoration:none;
+
+    background:
+    linear-gradient(
+        90deg,
+        #ff3db8,
+        #714cff
+    );
+
+    box-shadow:
+        0 8px 25px #ff3db844;
+
+    transition:.3s;
+}
+
+
+.button:hover{
+
+    transform:translateY(-4px)
+    padding:45px 15px 25px;
+
+    color:#bca7c5;
+
+    font-size:14px;
+}
+
+
+footer strong{
+
+    color:#ff9ddd;
+}
+
+
+/* Mobile */
+
+@media(max-width:600px){
+
+    header h1{
+        font-size:43px;
+    }
+
+    .profile-photo{
+        width:145px;
+        height:145px;
+    }
+
+    .card p{
+        font-size:18px;
+    }
+
+}
+
+</style>
+</head>
+
+
+<body>
+
+
+<!-- Floating lights -->
+
+<div class="light"></div>
+<div class="light"></div>
+<div class="light"></div>
+<div class="light"></div>
+
+
+<!-- Header -->
+
+<header>
+
+    <h1>✨ Anurag ✨</h1>
+
+    <p>
+        कुछ अल्फ़ाज़... कुछ एहसास... ❤️
+    </p>
+
+</header>
+
+
+
+<!-- Profile -->
+
+<section class="profile">
+
+
+    <!-- YOUR PHOTO -->
+
+    <img
+        src="anurag.jpg"
+        alt="Anurag"
+        class="profile-photo"
+    >
+
+
+    <h2>
+        ❤️ <span>Anurag</span>
+    </h2>
+
+
+    <p>
+        शब्दों में दिल की बातें लिखने की एक छोटी सी कोशिश ✨
+    </p>
+
+
+</section>
+
+
+
+<!-- Shayari -->
+
+<main class="container">
+
+
+    <div class="card">
+
+        <div class="icon">
+            ❤️
+        </div>
+
+        <h3>
+            इश्क़
+        </h3>
+
+        <p>
+            तुम्हें सोचकर ही चेहरे पर मुस्कान आ जाती है,<br>
+            कुछ तो खास है तुममें,<br>
+            जो हर बार दिल को छू जाती है।
+        </p>
+
+    </div>
+
+
+
+    <div class="card">
+
+        <div class="icon">
+            🌸
+        </div>
+
+        <h3>
+            ज़िंदगी
+        </h3>
+
+        <p>
+            ज़िंदगी खूबसूरत है,<br>
+            बस इसे देखने का नज़रिया खूबसूरत होना चाहिए।
+        </p>
+
+    </div>
+
+
+
+    <div class="card">
+
+        <div class="icon">
+            ✨
+        </div>
+
+        <h3>
+            यादें
+        </h3>
+
+        <p>
+         d>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Anurag | Latest News</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, "Noto Sans Devanagari", sans-serif;
+    min-height:100vh;
+    color:#172033;
+    background:
+        radial-gradient(circle at 10% 10%, #dbeafe 0, transparent 30%),
+        radial-gradient(circle at 90% 20%, #fce7f3 0, transparent 30%),
+        linear-gradient(135deg,#f8fbff,#ffffff);
+    overflow-x:hidden;
+}
+
+/* Soft moving background */
+body::before,
+body::after{
+    content:"";
+    position:fixed;
+    width:220px;
+    height:220px;
+    border-radius:50%;
+    filter:blur(70px);
+    opacity:.45;
+    z-index:-1;
+    animation:move 8s ease-in-out infinite alternate;
+}
+
+body::before{
+    background:#60a5fa;
+    top:5%;
+    left:-80px;
+}
+
+body::after{
+    background:#c084fc;
+    bottom:5%;
+    right:-80px;
+    animation-delay:2s;
+}
+
+@keyframes move{
+    from{transform:translate(0,0)}
+    to{transform:translate(40px,30px)}
+}
+
+/* Header */
+header{
+    text-align:center;
+    padding:38px 18px 25px;
+}
+
+.profile{
+    width:125px;
+    height:125px;
+    object-fit:cover;
+    border-radius:50%;
+    border:5px solid white;
+    box-shadow:
+        0 0 0 5px rgba(99,102,241,.12),
+        0 12px 35px rgba(15,23,42,.20);
+    animation:profileFloat 3.5s ease-in-out infinite;
+}
+
+@keyframes profileFloat{
+    0%,100%{transform:translateY(0)}
+    50%{transform:translateY(-7px)}
+}
+
+h1{
+    margin-top:15px;
+    font-size:32px;
+    letter-spacing:.5px;
+}
+
+.subtitle{
+    margin-top:7px;
+    color:#64748b;
+    font-size:15px;
+}
+
+/* Instagram */
+.instagram{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    margin-top:18px;
+    padding:12px 23px;
+    border-radius:30px;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+    background:linear-gradient(
+        90deg,
+        #833ab4,
+        #fd1d1d,
+        #fcb045
+    );
+    box-shadow:0 8px 22px rgba(131,58,180,.25);
+    transition:.3s ease;
+}
+
+.instagram:hover{
+    transform:translateY(-3px);
+}
+
+/* Main */
+.container{
+    width:min(900px,92%);
+    margin:auto;
+}
+
+.news-heading{
+    margin:18px 0 8px;
+    font-size:25px;
+}
+
+.today{
+    color:#64748b;
+    font-size:14px;
+    margin-bottom:18px;
+}
+
+/* News card */
+.news-card{
+    background:rgba(255,255,255,.92);
+    border:1px solid #e5e7eb;
+    border-radius:19px;
+    padding:20px;
+    margin-bottom:15px;
+    box-shadow:0 8px 28px rgba(15,23,42,.07);
+    animation:cardIn .6s ease both;
+    transition:.3s ease;
+}
+
+.news-card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 14px 32px rgba(15,23,42,.11);
+}
+
+@keyframes cardIn{
+    from{
+        opacity:0;
+        transform:translateY(15px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+.label{
+    display:inline-block;
+    padding:5px 10px;
+    border-radius:20px;
+    background:#eef2ff;
+    color:#4f46e5;
+    font-size:12px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+.news-card h2{
+    font-size:19px;
+    line-height:1.45;
+    margin-bottom:8px;
+}
+
+.news-card p{
+    color:#475569;
+    font-size:15px;
+    line-height:1.7;
+}
+
+.english-heading{
+    margin-top:35px;
+}
+
+/* Footer */
+footer{
+    text-align:center;
+    padding:35px 15px;
+    color:#94a3b8;
+    font-size:13px;
+}
+
+/* Mobile */
+@media(max-width:600px){
+
+    header{
+        padding-top:28px;
+    }
+
+    .profile{
+        width:110px;
+        height:110px;
+    }
+
+    h1{
+        font-size:28px;
+    }
+
+    .news-heading{
+        font-size:22px;
+    }
+
+    .news-card{
+        padding:17px;
+    }
+
+    .news-card h2{
+        font-size:18px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+
+    <!-- तुम्हारी photo -->
+    <img
+        src="anurag.jpg"
+        alt="Anurag"
+        class="profile"
+    >
+
+    <h1>Anurag</h1>
+
+    <p class="subtitle">
+        Latest News • India & World
+    </p>
+
+    <!-- Instagram -->
+    <a
+        href="https://instagram.com/ydv._anurag"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="instagram"
+    >
+        📸 Follow on Instagram
+    </a>
+
+</header>
+
+
+<main class="container">
+
+    <!-- Hindi News -->
+
+    <h2 class="news-heading">
+        🇮🇳 आज की Latest News
+    </h2>
+
+    <div class="today" id="today"></div>
+
+    <div id="hindiNews">
+
+        <article class="news-card">
+            <span class="label">LATEST</span>
+
+            <h2>
+                आज की महत्वपूर्ण खबरें यहाँ दिखाई देंगी
+            </h2>
+
+            <p>
+                Live news source जोड़ने के बाद यहाँ उस दिन की
+                ताज़ा और महत्वपूर्ण खबरें अपने-आप दिखाई देंगी।
+            </p>
+        </article>
+
+    </div>
+
+
+    <!-- English News -->
+
+    <h2 class="news-heading english-heading">
+        🌍 Latest English News
+    </h2>
+
+    <div id="englishNews">
+
+        <article class="news-card">
+            <span class="label">WORLD</span>
+
+            <h2>
+                Latest important news will appear here
+            </h2>
+
+            <p>
+                A live news source will automatically provide
+                the latest important English news here.
+            </p>
+        </article>
+
+    </div>
+
+</main>
+
+
+<footer>
+    © 2026 Anurag
+</footer>
+
+
+<script>
+
+/* Today's date */
+
+const today = new Date();
+
+document.getElementById("today").textContent =
+    "📅 " +
+    today.toLocaleDateString(
+        "hi-IN",
+        {
+            day:"numeric",
+            month:"long",
+            year:"numeric"
+        }
+    );
+
+/*
+--------------------------------------------------
+LIVE NEWS
+--------------------------------------------------
+
+यहाँ बाद में secure News API / RSS system
+connect किया जाएगा।
+
+API key को सीधे इस HTML में नहीं रखना है,
+क्योंकि वह public दिखाई दे सकती है।
+--------------------------------------------------
+*/
+
+</script>
+
+</body>
+</html>
+
+    <div class="card"
+        <di class="icon">
+            
+        </div>
+        <h3>
+            खामोशी
+        </h3>
+        <p
+            खामोशी भी बहुत कुछ कह जाती है,<br>
+            
