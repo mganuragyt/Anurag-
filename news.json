@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:06:27.052921+00:00",
+  "updated": "2026-10-06T20:28:08.654628+00:00",
   "news": [
     {
       "title": "देर रात दिल्ली-NCR में कांपी धरती, पूरे उत्तर भारत में महसूस हुए भूकंप के झटके",
@@ -7,8 +7,71 @@
       "link": "https://ndtv.in/india/earthquake-tremors-felt-in-delhi-ncr-12147913#publisher=newsstand",
       "source": "",
       "image": "https://c.ndtvimg.com/2026-08/b4e50itg_earthquake_625x300_22_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791307848.0,
-      "pubDate": "Tue, 06 Oct 2026 23:00:48 +0530"
+      "timestamp": 1791311801.0,
+      "pubDate": "Wed, 07 Oct 2026 00:06:41 +0530"
+    },
+    {
+      "title": "2+2 हमेशा 4 ही होता है, 5 क्यों नहीं? इस गणितज्ञ के जवाब को पढ़कर चकरा जाएगा दिमाग",
+      "description": "1889 में इटली के एक मशहूर गणितज्ञ ग्यूसेप पेआनो ने गणित कुछ नियम बताए थे, जिन्हें आज दुनिया 'Peano Axioms' कहती है.",
+      "link": "https://ndtv.in/knowledge/why-2-plus-2-is-always-4-not-5-mathematician-giuseppe-peano-axioms-explained-12147444#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/qfgolbbg_explained_625x300_06_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1791311780.0,
+      "pubDate": "Wed, 07 Oct 2026 00:06:20 +0530"
+    },
+    {
+      "title": "राहुल के प्लान-B से फिर गच्चा खा गई पुलिस, चुनाव आयोग के लिए निकले विपक्षी सांसद कैसे पहुंच गए आकाशवाणी भवन?",
+      "description": "आकाशवाणी भवन परिसर में विपक्षी सांसदों के धरने का कोई प्लान नहीं था. लेकिन फिर ऐसा क्या हुआ कि अचानक राहुल गांधी और विपक्षी सांसद आकाशवाणी भवन पहुंच गए.",
+      "link": "https://ndtv.in/india/how-rahul-gandhi-priyanka-gandhi-enters-akashvani-bhavan-protest-against-cec-gyanesh-kumar-12148150#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/fgqcl9j8_rahul-gandhi_625x300_07_October_26.gif",
+      "timestamp": 1791311558.0,
+      "pubDate": "Wed, 07 Oct 2026 00:02:38 +0530"
+    },
+    {
+      "title": "95 साल से साइंस का नोबेल प्राइज भारत नहीं आया, लेकिन इस साल टीस से थोड़ी राहत मिली, जानिए क्या है JNU कनेक्शन?",
+      "description": "1930 में प्रोफेसर सी.वी. रमन को भौतिकी का नोबेल पुरस्कार मिलने के बाद भारत को विज्ञान के क्षेत्र में अब तक दूसरा नोबेल नहीं मिला है. यह सिलसिला भारतीय वैज्ञानिक समुदाय के लिए आज भी एक टीस बना हुआ है. लेकिन इस कनेक्शन सामने आया है जो थोड़ी राहत जरूर दे सकता है.",
+      "link": "https://ndtv.in/india/jnu-professor-sunil-kateria-contribution-to-nobel-prize-winning-research-in-physiology-or-medicine-12148256#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/7bp4ebtk_india_625x300_07_October_26.png",
+      "timestamp": 1791311491.0,
+      "pubDate": "Wed, 07 Oct 2026 00:01:31 +0530"
+    },
+    {
+      "title": "फ्लाईदुबई प्लेन को मार गिराने की इजरायल ने कर ली थी तैयारी, को-पालयट हम्ममी से शिन बेट एजेंट्स ने की पूछताछ",
+      "description": "फ्लाईदुबई के को-पायलट हमम अल-हम्ममी से लगातार पूछताछ चल रही है. शिन बेट एजेंट्स के बाद मोसाद और सीआईए भी उससे पूछताछ कर सकती हैं. साथ ही अलग-अलग देशों की खुफिया एजेंसियां भी उसकी पिछली एक-एक हरकत की जानकारी जुटा रही हैं.",
+      "link": "https://ndtv.in/world-news/israel-had-prepared-to-shoot-down-a-flydubai-plane-shin-bet-agents-interrogated-the-co-pilot-hammam-al-hammami-12148258#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/n00quicg_flydubai-co-pilot_625x300_03_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1791311457.0,
+      "pubDate": "Wed, 07 Oct 2026 00:00:57 +0530"
+    },
+    {
+      "title": "सैयद सुहैल का शो: ठेले से शुरू हुआ सफर और बन गया बड़ा ब्रांड... जिस 'खान चाचा' के राहुल गांधी ने खाए रोल, जानिए उसकी पूरी कहानी",
+      "description": "आज कहानी उस 'खान चाचा' ब्रांड की, जिसके रोल राहुल गांधी ने खाए. एक छोटे से ठेले से शुरू हुआ यह सफर कैसे समय के साथ मशहूर फूड ब्रांड्स में शामिल हो गया.",
+      "link": "https://ndtv.in/india/syed-suhail-show-khan-chacha-roll-story-rahul-gandhi-rolls-famous-food-brand-success-journey-12148166#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/n84nqd5c_rahulgandhirolls_625x300_06_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1791310814.0,
+      "pubDate": "Tue, 06 Oct 2026 23:50:14 +0530"
+    },
+    {
+      "title": "पंजाब CM की पत्नी से जुड़े कथित रिश्वत केस में बड़ा ट्विस्ट, साले अमरदीप ग्रेवाल को ED ने बुलाया",
+      "description": "मामला सिर्फ मुख्यमंत्री की पत्नी तक सीमित नहीं ,यह पूरा विवाद ऐसे समय में सामने आया जब पंजाब में ED की दूसरी जांचों को लेकर भी बड़ा राजनीतिक और कानूनी विवाद चल रहा है. ED ने पंजाब सरकार और मुख्यमंत्री कार्यालय से जुड़े कथित भ्रष्टाचार और ट्रांसफर-पोस्टिंग नेटवर्क को लेकर पंजाब पुलिस को कई पत्र भेजे ",
+      "link": "https://ndtv.in/india/major-twist-in-alleged-bribery-case-linked-to-punjab-cm-wife-ed-summons-brother-in-law-amardeep-grewal-12148101#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/t46lb9bo_bhagwant-mann_625x300_02_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1791308732.0,
+      "pubDate": "Tue, 06 Oct 2026 23:15:32 +0530"
+    },
+    {
+      "title": "लखनऊ में बाढ़ : चप्पल निकालने उतरा युवक, बाढ़ के पानी ने ली 19 साल के विमल की जान",
+      "description": "बाढ़ के तेज बहाव ने एक परिवार की खुशियां छीन लीं। लखनऊ के इटौंजा इलाके के लासा गांव में 19 वर्षीय विमल कुमार की बाढ़ के पानी में डूबने से मौत हो गई",
+      "link": "https://ndtv.in/uttar-pradesh-news/lucknow-flood-tragedy-vimal-kumar-dies-while-trying-to-save-friend-12147848#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/knm4o2jc_lucknowflood_625x300_06_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1791308703.0,
+      "pubDate": "Tue, 06 Oct 2026 23:15:03 +0530"
     },
     {
       "title": "राहुल गांधी का धरना और फिर हिरासत, जानिए पूरे दिन क्या हुआ",
@@ -117,69 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/r7aclksg_india_625x300_06_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791303132.0,
       "pubDate": "Tue, 06 Oct 2026 21:42:12 +0530"
-    },
-    {
-      "title": "फ्रांस ने परमाणु पनडुब्बी से नई न्यूक्लियर मिसाइल का किया परीक्षण, मैक्रों बोले-डर जरूरी",
-      "description": "मैक्रों ने मॉस्को पर आरोप लगने वाले कई हाइब्रिड हमलों के बाद यूरोपीय देशों के खिलाफ रूसी आक्रामकता और धमकियों के बदलते स्वरूप के बारे में चेतावनी दी. उन्होंने सितंबर के मध्य में संकल्प लिया था कि इन कार्रवाइयों का जवाब जरूर दिया जाएगा.",
-      "link": "https://ndtv.in/world-news/france-test-fired-new-nuclear-missile-m51-3-from-a-nuclear-submarine-macron-said-fear-is-necessary-12147671#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/s1iqdbf4_france-new-missile-test_625x300_06_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791303088.0,
-      "pubDate": "Tue, 06 Oct 2026 21:41:28 +0530"
-    },
-    {
-      "title": "चुनाव आयोग के खिलाफ AAP का मार्च कल, कांग्रेस और वामपंथी दल भी होंगे साथ",
-      "description": "आम आदमी पार्टी के नेता सौरभ भारद्वाज ने बताया कि बुधवार को विपक्षी दल दिल्ली सीईओ के दफ्तर तक मार्च निकालेंगे. इसमें कांग्रेस और वामपंथी दल भी शामिल होंगे.",
-      "link": "https://ndtv.in/india/aam-aadmi-party-protest-march-cec-gyanesh-kumar-congress-left-parties-protest-election-commission-12147659#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/u0m1tb54_gyanesh-kumar_625x300_06_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791302967.0,
-      "pubDate": "Tue, 06 Oct 2026 21:39:27 +0530"
-    },
-    {
-      "title": "UPI पेमेंट पर GST की चर्चा मीटिंग में नहीं होगी, रेट में बदलाव भी नहीं फिर काउंसिल मीट में किन मुद्दों पर होगी बात",
-      "description": "GST काउंसिल की मीटिंग को लेकर कई सारे कयास लगाए जा रहे हैं. मीटिंग में किन मुद्दों पर चर्चा होगी और कौन से मुद्दे छोड़ दिए जाएंगे, इस बारे में NDTV संवाददाता को वित्त मंत्रालय के सूत्रों के हवाले से पता चला है. डिटेल यहीं है.",
-      "link": "https://ndtv.in/business-news/gst-council-meeting-upi-mdr-tax-slabs-changes-or-not-which-reforms-to-be-discuss-tells-finance-minister-nirmala-sitharaman-12147637#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/5p4190v_gst-council_625x300_06_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791302704.0,
-      "pubDate": "Tue, 06 Oct 2026 21:35:04 +0530"
-    },
-    {
-      "title": "17 साल की उम्र में बनीं म्यूजिक डायरेक्टर, लोगों को नहीं हुआ यकीन कि धुनें खुद बनाई हैं",
-      "description": "हिंदी सिनेमा में कई ऐसे संगीतकार हुए हैं, जिनकी धुनों को फिल्मों से ज्यादा याद रखा गया. जब बात महिला संगीतकारों की होती है तो उषा खन्ना का नाम अपने आप दिमाग में आने लगता है.",
-      "link": "https://ndtv.in/bollywood/usha-khanna-became-a-music-director-at-the-age-of-17-people-could-not-believe-she-had-composed-the-tunes-herself-12147597#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/n1um8fqo_usha-khanna_625x300_06_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791302274.0,
-      "pubDate": "Tue, 06 Oct 2026 21:27:54 +0530"
-    },
-    {
-      "title": "भगवंत मान के ऑफिस पर सीबीआई की रेड, बोले- भाजपा की चुनावी तैयारी शुरू",
-      "description": "पंजाब के मुख्यमंत्री भगवंत मान के दफ्तर पर सीबीआई की छापेमारी चल रही है. सीएम भगवंत मान ने इस छापेमारी को भाजपा की चुनावी तैयारियों से जोड़ा है.",
-      "link": "https://ndtv.in/india/cbi-raids-bhagwant-cm-mann-camp-office-he-says-bjp-election-preparations-have-begun-12146550#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2023-12/3dv5c5eo_bhagwant-mann-1200_625x300_29_December_23.jpeg",
-      "timestamp": 1791302247.0,
-      "pubDate": "Tue, 06 Oct 2026 21:27:27 +0530"
-    },
-    {
-      "title": "कुनिका सदानंद की मां का निधन, 83 साल की उम्र में दुनिया को कहा अलविदा",
-      "description": "कुनिका सदानंद की मां ने 83 साल की उम्र में अंतिम सांस ली. मां के निधन पर कुनिका ने एक लंबी पोस्ट लिख अपनी मां को याद किया और मार्गदर्शन के लिए उन्हें धन्यवाद कहा.",
-      "link": "https://ndtv.in/bollywood/kunickaa-sadanand-mother-passes-away-at-83-12147583#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/865rtpmo_kunickaa-sadanand-_625x300_06_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791302120.0,
-      "pubDate": "Tue, 06 Oct 2026 21:25:20 +0530"
-    },
-    {
-      "title": "17 साल उम्र की वो लड़की, जिसके हुनर पर उठे सवाल, बाद में लता-रफी ने गाए उसी के कल्ट गाने, सुनाए रोमांस, दर्द और जिंदगी के अलग-अलग रंग",
-      "description": "महज 17 साल की उम्र में उषा खन्ना ने बतौर संगीतकार हिंदी सिनेमा में कदम रखा. शुरुआत में उनके हुनर पर सवाल उठे, लेकिन बाद में उनकी धुनों को लता मंगेशकर और मोहम्मद रफी जैसे दिग्गज गायकों ने अपनी आवाज दी.",
-      "link": "https://ndtv.in/bollywood/17-year-old-usha-khanna-talent-questioned-later-lata-mangeshkar-mohammed-rafi-sang-her-cult-songs-of-romance-pain-and-life-12147549#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/n1um8fqo_usha-khanna_625x300_06_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791301813.0,
-      "pubDate": "Tue, 06 Oct 2026 21:20:13 +0530"
     }
   ]
 }
