@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T10:12:18.764625+00:00",
+  "updated": "2026-10-08T10:32:45.549885+00:00",
   "news": [
+    {
+      "title": "नाना पाटेकर ने कहा था, 'अगर ये लोग मेरी ज़िंदगी में नहीं आए होते, तो शायद मैं अंडरवर्ल्ड में होता'",
+      "description": "नाना पाटेकर का जीवन ग़रीबी, संघर्ष, बेबाकी और शानदार अभिनय से भरा रहा. मराठी से हिन्दी सिनेमा तक उन्होंने अपनी अलग पहचान बनाई. निजी रिश्तों से लेकर सामाजिक काम और विवादों तक, उनका व्यक्तित्व हमेशा चर्चा में रहा.",
+      "link": "https://www.bbc.com/hindi/articles/cvx28wr6g2y2o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0345/live/1c184280-c2e4-11f1-89a3-9b445bfcfe23.jpg",
+      "timestamp": 1791455121.0,
+      "pubDate": "Thu, 08 Oct 2026 10:25:21 GMT"
+    },
     {
       "title": "मशीनों से रिश्ता बनाने वाले लोगों को लत से बचाने के लिए चीन ने बनाया सख़्त क़ानून",
       "description": "इस साल 15 जुलाई को यह नियंत्रण लोगों के निजी रिश्तों और आर्टिफ़िशियल इंटेलिजेंस यानी एआई तक पहुंच गया. सवाल यह है कि इस तकनीक को नियंत्रित करने की दिशा में चीन ही सबसे आगे क्यों दिखाई दे रहा है?",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/cgt5rkvk_delhi-metro-golden-line-route-_625x300_08_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791448324.0,
       "pubDate": "Thu, 08 Oct 2026 14:02:04 +0530"
-    },
-    {
-      "title": "अमेरिका के स्कूलों में करीब 12 हजार किताबें क्यों हुईं बैन? चौंकाने वाली रिपोर्ट आई सामने",
-      "description": "US School Book Ban: अमेरिकी स्कूलों में एक साल के अंदर करीब 12 हजार किताबों को बैन किया गया है, जो अब तक का सबसे बड़ा रिकॉर्ड है. इस काम के लिए एआई का भी सहारा लिया गया था.",
-      "link": "https://ndtv.in/education/us-schools-ban-12000-books-record-in-one-year-censorship-reason-12155462#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/ru46n35_us-schools-ban_625x300_08_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791448258.0,
-      "pubDate": "Thu, 08 Oct 2026 14:00:58 +0530"
     }
   ]
 }
