@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-08T02:14:50.924041+00:00",
+  "updated": "2026-10-08T02:30:42.398136+00:00",
   "news": [
+    {
+      "title": "दिग्गज अभिनेता नाना पाटेकर का 75 साल की उम्र में निधन",
+      "description": "जाने-माने अभिनेता नाना पाटेकर का 75 साल की उम्र में निधन हो गया है. मीडिया रिपोर्ट्स के मुताबिक़ गोवा में उन्होंने आख़िरी सांस ली.",
+      "link": "https://www.bbc.com/hindi/articles/ck4g1w48w042o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba01/live/0430dfd0-c2bf-11f1-a495-0d8c3b3fd3d3.jpg",
+      "timestamp": 1791426153.0,
+      "pubDate": "Thu, 08 Oct 2026 02:22:33 GMT"
+    },
     {
       "title": "'चुंबन के साथ तमाचा'...ज़ोहरान ममदानी के बयान पर भारी विवाद, तीखी प्रतिक्रिया की बाढ़",
       "description": "बरसी पर की गई टिप्पणी के कारण उन्हें ख़ास तौर पर तीखी प्रतिक्रिया का सामना करना पड़ा. आलोचकों ने कहा कि बुधवार ऐसा मौक़ा था, जब निर्वाचित नेताओं को विभाजनकारी बयानबाज़ी से बचना चाहिए.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/r7sr55v4_aaj-ka-panchang-8-october-2026_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791418508.0,
       "pubDate": "Thu, 08 Oct 2026 05:45:08 +0530"
-    },
-    {
-      "title": "सऊदी अरब के दो बड़े एयरपोर्ट पर हमला; 3 की मौत, 36 लोग घायल, हूतियों ने ली जिम्मेदारी",
-      "description": "सऊदी अरब के अबहा और किंग खालिद इंटरनेशनल एयरपोर्ट पर हुए हमलों में तीन लोगों की मौत और 36 लोग घायल हो गए. यमन के हूती विद्रोहियों ने हमलों की जिम्मेदारी ली है, जबकि सऊदी गठबंधन ने जवाबी सैन्य कार्रवाई की है.",
-      "link": "https://ndtv.in/world-news/saudi-arabia-airports-attacked-3-killed-36-injured-houthis-claim-missile-launch-drone-strikes-on-riyadh-and-abha-12153798#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/24v2obvc_king-khalid-international-airport_625x300_08_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791418198.0,
-      "pubDate": "Thu, 08 Oct 2026 05:39:58 +0530"
     }
   ]
 }
