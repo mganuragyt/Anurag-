@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T02:26:28.790656+00:00",
+  "updated": "2026-10-09T02:42:50.106346+00:00",
   "news": [
+    {
+      "title": "मुकेश अंबानी पर एलन मस्क के हमले में राहुल गांधी की एंट्री क्या कांग्रेस की लाइन से अलग है?",
+      "description": "एलन मस्क ने गुरुवार को मुकेश अंबानी पर हमला किया तो राहुल गांधी ने इसे हाथोंहाथ लिया. राहुल मस्क के पहले से ही मुकेश अंबानी और नरेंद्र मोदी के संबंधों पर सवाल उठाते रहे हैं.",
+      "link": "https://www.bbc.com/hindi/articles/cwkg5959g019o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/135d/live/253f1b10-c387-11f1-8db1-bd90b941a336.png",
+      "timestamp": 1791513691.0,
+      "pubDate": "Fri, 09 Oct 2026 02:41:31 GMT"
+    },
     {
       "title": "जब नाना पाटेकर ने कहा था- मौत ही है, जो हमेशा साथ रहती है",
       "description": "नाना पाटेकर के निधन के बाद उन्हें याद कर रहे हैं वरिष्ठ फ़िल्म पत्रकार पराग छापेकर.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/gmbpi47_health_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791489227.0,
       "pubDate": "Fri, 09 Oct 2026 01:23:47 +0530"
-    },
-    {
-      "title": "'स्मित मछार को हम देंगे प्रेसिडेंशियल अवॉर्ड', इजरायली प्रेसिंडेट ने भारत के लाल के लिए किया ऐलान",
-      "description": "इजरायल के राष्ट्रपति ने कहा कि कैप्टन मछार की बहादुरी और अच्छे प्रोफेशनलिज्म ने एक बड़ी मुसीबत को टालने में मदद की है. एक बार जब वह ठीक हो जाएंगे, तो इजरायल के लोगों की तरफ से उन्हें सिविलियन हीरोइज्म के लिए इजरायल स्टेट का प्रेसिडेंशियल अवॉर्ड देना मेरे लिए खुशी की बात होगी.",
-      "link": "https://ndtv.in/world-news/israeli-president-to-honour-captain-smit-machar-with-presidential-award-for-heroism-12158824#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/cvubp3oo_india_625x300_09_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791485132.0,
-      "pubDate": "Fri, 09 Oct 2026 00:15:32 +0530"
     }
   ]
 }
