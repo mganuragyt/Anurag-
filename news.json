@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T14:36:36.662948+00:00",
+  "updated": "2026-10-09T14:58:22.269744+00:00",
   "news": [
+    {
+      "title": "खाना खाने के बाद ब्लड शुगर बढ़ना हमेशा ख़राब क्यों नहीं होता?",
+      "description": "पिछले कुछ सालों में दो चौंकाने वाले बदलाव देखे गए हैं. पहला, कई स्वस्थ लोग भी अब दिनभर ब्लड शुगर मापने वाली मशीन पहनने लगे हैं, जबकि उन्हें डायबिटीज़ या ऐसी कोई बीमारी नहीं है. वहीं कुछ लोगों ने सफ़ेद ब्रेड और पास्ता जैसे रिफ़ाइंड कार्बोहाइड्रेट खाना बिल्कुल छोड़ दिया है.",
+      "link": "https://www.bbc.com/hindi/articles/ck86zw7yx4q9o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfc4/live/db1da810-c306-11f1-8f04-85217d686658.jpg",
+      "timestamp": 1791556885.0,
+      "pubDate": "Fri, 09 Oct 2026 14:41:25 GMT"
+    },
     {
       "title": "अमिताभ बच्चन ने शेयर किया NDTV से नाना पाटेकर के इंटरव्यू का वीडियो, नाना ने सुनाई थी बिग बी के स्टारडम की कहानी",
       "description": "बॉलीवुड के दिग्गज एक्टर अमिताभ बच्चन ने दिवंगत अभिनेता नाना पाटेकर को याद करते हुए उनके एनडीटीवी डॉट कॉम के साथ पुराने इंटरव्यू का क्लिप सोशल मीडिया पर शेयर किए है.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/fi75ufo_gyanesh-kumar_625x300_05_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791552663.0,
       "pubDate": "Fri, 09 Oct 2026 19:01:03 +0530"
-    },
-    {
-      "title": "नरेंद्र चंचल का 53 साल पुराना वो गाना, जिसने भजन सिंगर को रातोंरात बनाया हर घर का स्टार, ऋषि डिंपल पर गया फिल्माया, आज भी सदाबहार",
-      "description": "राज कपूर की एक फिल्म ने इस अनोखी आवाज की किस्मत बदल दी और बड़ा सम्मान भी दिलाया. मगर असली कहानी तब शुरू हुई, जब फिल्मी दुनिया से अलग उनकी आवाज एक खास जगह गूंजने लगी.",
-      "link": "https://ndtv.in/bollywood/53-year-old-song-that-made-narendra-chanchal-a-household-star-lost-his-voice-after-refusing-bhajan-rishi-dimple-song-still-a-cult-12161492#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/9l0llg3s_narendra_625x300_09_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791552542.0,
-      "pubDate": "Fri, 09 Oct 2026 18:59:02 +0530"
     }
   ]
 }
