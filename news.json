@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-09T05:08:19.629625+00:00",
+  "updated": "2026-10-09T05:28:51.873567+00:00",
   "news": [
+    {
+      "title": "भारतीय कंपनियों के ख़िलाफ़ एक्शन: अमेरिकी मंत्री ने कहा- वी आर कटिंग ऑफ़ द हेड ऑफ़ द स्नेक",
+      "description": "अमेरिकी श्रम मंत्री की टिप्पणी को लेकर कहा जा रहा है कि भारत से जुड़ी किसी चीज़ को 'द हेड ऑफ द स्नेक' कब कहा गया था, इसे याद करना मुश्किल है.",
+      "link": "https://www.bbc.com/hindi/articles/cwq6n2ep400po?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c76/live/4cb247b0-c39d-11f1-ac78-07b079074db9.jpg",
+      "timestamp": 1791522780.0,
+      "pubDate": "Fri, 09 Oct 2026 05:13:00 GMT"
+    },
     {
       "title": "Starlink लाइसेंस विवाद में कूदे राहुल गांधी; एलन मस्क ने तुरंत दे दिया जवाब",
       "description": "भारत में स्टारलिंक की एंट्री को लेकर चल रही बहस अब राजनीतिक मोड़ ले चुकी है. एलन मस्क ने लाइसेंस में देरी पर सवाल उठाए तो राहुल गांधी ने भी इस मुद्दे पर टिप्पणी की.",
@@ -171,15 +180,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/135d/live/253f1b10-c387-11f1-8db1-bd90b941a336.png",
       "timestamp": 1791513691.0,
       "pubDate": "Fri, 09 Oct 2026 02:41:31 GMT"
-    },
-    {
-      "title": "माइक्रोसॉफ्ट की पार्टनर फर्म के मालिक को हुआ पछतावा, बोले- '16 महीने पहले दोस्त की सलाह मान लेनी चाहिए थी'",
-      "description": "विंकवेब स्टूडियोज के मालिक को दोस्त की बात देरी से मानने का पछतावा हो रहा है. ये कंपनी दुबई में है और माइक्रोसॉफ्ट कंपनी के साथ पार्टनर के तौर पर काम करती है.",
-      "link": "https://ndtv.in/zara-hatke/microsoft-dubai-partner-firm-owner-regrets-for-not-heeded-friend-advice-16-months-ago-12159438#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/qqbs97g_microsoft-dubai-partner-firm-owner-regrets-for-not-heeded-friend-advice-16-months-ago_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791513626.0,
-      "pubDate": "Fri, 09 Oct 2026 08:10:26 +0530"
     }
   ]
 }
