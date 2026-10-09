@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-09T16:31:16.642617+00:00",
+  "updated": "2026-10-09T16:56:53.964354+00:00",
   "news": [
+    {
+      "title": "डिप्रेशन, पैनिक अटैक को पहचाना कैसे जाए और क्या है इलाज? फ़िट ज़िंदगी",
+      "description": "मानसिक तनाव से जुड़ी कई बातें सुनने को मिलती हैं. इनमें से कुछ सही होती हैं और कुछ ग़लत. ऐसे में एक कंफ़्यूज़न बना रहता है कि आख़िर सच क्या है?",
+      "link": "https://www.bbc.com/hindi/articles/cr86z33zdx5lo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d6/live/586a5fd0-c3fb-11f1-a64c-550be9e3c66b.png",
+      "timestamp": 1791563535.0,
+      "pubDate": "Fri, 09 Oct 2026 16:32:15 GMT"
+    },
+    {
+      "title": "पाबंदियों के बीच विरोध प्रदर्शन की तैयारी कर रहे इन लोगों को सुनिए",
+      "description": "कॉकरोच जनता पार्टी के 10 अक्तूबर को प्रस्तावित विरोध प्रदर्शन से पहले दिल्ली में कई जगह पुलिस बैरिकेडिंग देखने को मिल रही है.",
+      "link": "https://www.bbc.com/hindi/articles/cm5yn661vpe2o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5fc/live/d138bc40-c3fb-11f1-97a9-2d4b5e26e282.png",
+      "timestamp": 1791563425.0,
+      "pubDate": "Fri, 09 Oct 2026 16:30:25 GMT"
+    },
     {
       "title": "राहुल गांधी ने राष्ट्रपति द्रौपदी मुर्मु से मिलने के बाद किया ये दावा",
       "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफ़े की मांग को लेकर विपक्षी दल लगातार प्रदर्शन कर रहे हैं. कांग्रेस नेता राहुल गांधी ने राष्ट्रपति द्रौपदी मुर्मु से मुलाक़ात के बाद संतोष जताया और कहा कि अब वे सुप्रीम कोर्ट का रुख़ करेंगे.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/8opp6r4g_loveria-hua_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791556630.0,
       "pubDate": "Fri, 09 Oct 2026 20:07:10 +0530"
-    },
-    {
-      "title": "अमिताभ बच्चन ने शेयर किया NDTV से नाना पाटेकर के इंटरव्यू का वीडियो, नाना ने सुनाई थी बिग बी के स्टारडम की कहानी",
-      "description": "बॉलीवुड के दिग्गज एक्टर अमिताभ बच्चन ने दिवंगत अभिनेता नाना पाटेकर को याद करते हुए उनके एनडीटीवी डॉट कॉम के साथ पुराने इंटरव्यू का क्लिप सोशल मीडिया पर शेयर किए है.",
-      "link": "https://ndtv.in/bollywood/amitabh-bachchan-shared-a-video-of-nana-patekar-interview-with-ndtv-in-which-nana-recounted-a-story-about-big-b-stardom-12162534#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/g9hgvf2c_amitabh-bachchan-nana-patekar_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791556379.0,
-      "pubDate": "Fri, 09 Oct 2026 20:02:59 +0530"
-    },
-    {
-      "title": "कई विरोध प्रदर्शन में गूंज चुकी है इस गाने की आवाज, 66 साल पहले निकला था अमेरिकी आंदोलन से, गिरिजा कुमार माथुर के शब्दों में बना अमर",
-      "description": "इस गाने की आवाज विरोध प्रदर्शन में भी सुनने की आवाज मिलती है. इस गाने का नाम 'हम होंगे कामयाब एक दिन' है. यूं तो यह गाना काफी साल पुराना है लेकिन इस फिल्म में 43 साल पहले लिया गया था.",
-      "link": "https://ndtv.in/bollywood/this-song-has-resonated-in-numerous-protests-emerged-from-an-american-movement-66-years-ago-and-was-immortalized-by-girija-kumar-mathur-words-12162722#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/1bvoudro_hum-honge-kamyab_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791556108.0,
-      "pubDate": "Fri, 09 Oct 2026 19:58:28 +0530"
     }
   ]
 }
