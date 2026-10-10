@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-10T15:25:41.520212+00:00",
+  "updated": "2026-10-10T15:41:14.578742+00:00",
   "news": [
+    {
+      "title": "सीजेपी प्रोटेस्ट पर इतनी सख़्ती बरतकर मोदी सरकार आख़िर चाहती क्या है?",
+      "description": "महज़ पांच महीने पहले बने युवाओं के संगठन ने ऐसा क्या किया कि 10 अक्तूबर के एसआईआर विरोधी प्रदर्शन से पहले दिल्ली में सुरक्षा के इतने बड़े इंतज़ाम करने पड़े?",
+      "link": "https://www.bbc.com/hindi/articles/cx054lmeyz7yo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2211/live/602c3910-c4bd-11f1-9ce9-55293bd7f0d9.jpg",
+      "timestamp": 1791646295.0,
+      "pubDate": "Sat, 10 Oct 2026 15:31:35 GMT"
+    },
+    {
+      "title": "सीजेपी प्रोटेस्ट में प्रदर्शनकारियों पर पुलिस कार्रवाई को लेकर यूएन ह्यूमन राइट्स ने जताई चिंता",
+      "description": "दिल्ली में कर्फ़्यू जैसे हालात हैं. सीजेपी के विरोध प्रदर्शन को रोकने के लिए अर्द्धसैनिक बलों की कई कंपनियों को तैनात किया गया है. दर्जनों ट्रेनें और कई मेट्रो स्टेशन बंद हैं.",
+      "link": "https://www.bbc.com/hindi/articles/cqrkyeld7xl4o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/142e/live/f6e4b4d0-c4be-11f1-9ce9-55293bd7f0d9.jpg",
+      "timestamp": 1791646084.0,
+      "pubDate": "Sat, 10 Oct 2026 15:28:04 GMT"
+    },
     {
       "title": "ट्रेन के जनरल डिब्बे में 74 घंटे के लिए फंसी लड़की, हालात देखकर बोली- हर किसी के बस की बात नहीं",
       "description": "खिड़की के बाहर 9 राज्यों का खूबसूरत नजारा और अंदर पैर रखने तक की जगह नहीं. जानिए डिब्रूगढ़ से कन्याकुमारी तक के इस 4 दिनों के सफर में यूट्यूबर के साथ जनरल कोच में क्या-क्या हुआ.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/8udlo97o_yogi-akhilesh_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791641953.0,
       "pubDate": "Sat, 10 Oct 2026 19:49:13 +0530"
-    },
-    {
-      "title": "वकील ने ऐसे रोकी पुलिस की बस और हिरासत से भाग निकले प्रदर्शनकारी",
-      "description": "दिल्ली में कर्फ़्यू जैसे हालात हैं. सीजेपी के विरोध प्रदर्शन को रोकने के लिए अर्द्धसैनिक बलों की कई कंपनियों को तैनात किया गया है. दर्जनों ट्रेनें और कई मेट्रो स्टेशन बंद हैं.",
-      "link": "https://www.bbc.com/hindi/articles/cqrkyeld7xl4o?at_medium=RSS&at_campaign=rss",
-      "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a06/live/e6d421f0-c4b6-11f1-9ce9-55293bd7f0d9.jpg",
-      "timestamp": 1791641900.0,
-      "pubDate": "Sat, 10 Oct 2026 14:18:20 GMT"
-    },
-    {
-      "title": "दिल्ली में सीजेपी प्रोटेस्ट की दुनिया के चुनिंदा देशों में खास चर्चे, कइयों ने दिया पल-पल का अपडेट",
-      "description": "सीजेपी ने आज प्रदर्शन करने की पूरी कोशिश की. मगर कॉकरोच जनता पार्टी का कोई भी कार्यकर्ता या उसके समर्थक जंतर-मंतर तक नहीं पहुंच पाया. इसने दुनिया के कुछ देशों का ध्यान खूब खींचा.",
-      "link": "https://ndtv.in/world-news/cjp-protest-in-delhi-garnered-significant-attention-in-select-countries-around-the-world-with-many-providing-real-time-updates-12166842#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/6opruokc_cjp-protest_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791641249.0,
-      "pubDate": "Sat, 10 Oct 2026 19:37:29 +0530"
     }
   ]
 }
