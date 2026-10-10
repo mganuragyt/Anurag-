@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T15:54:14.017303+00:00",
+  "updated": "2026-10-10T16:05:29.496871+00:00",
   "news": [
+    {
+      "title": "10 अक्तूबर को दिल्ली में हुए प्रदर्शनों में बीबीसी के रिपोर्टरों ने क्या-क्या देखा?",
+      "description": "देखिए दिल्ली में अलग-अलग जगहों पर मौजूद बीबीसी के संवाददाताओं की भेजी ये खास रिपोर्ट.",
+      "link": "https://www.bbc.com/hindi/articles/c5rmy7r78w7no?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3aa/live/45cbce00-c4c2-11f1-9ce9-55293bd7f0d9.jpg",
+      "timestamp": 1791647838.0,
+      "pubDate": "Sat, 10 Oct 2026 15:57:18 GMT"
+    },
     {
       "title": "सीजेपी प्रोटेस्ट पर इतनी सख़्ती बरतकर मोदी सरकार आख़िर चाहती क्या है?",
       "description": "महज़ पांच महीने पहले बने युवाओं के संगठन ने ऐसा क्या किया कि 10 अक्तूबर के एसआईआर विरोधी प्रदर्शन से पहले दिल्ली में सुरक्षा के इतने बड़े इंतज़ाम करने पड़े?",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/28t6pgs8_nana-patekar_625x300_08_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791642069.0,
       "pubDate": "Sat, 10 Oct 2026 19:51:09 +0530"
-    },
-    {
-      "title": "योगी आदित्यनाथ के अयोध्या से चुनाव लड़ने वाले चैलेंज का अखिलेश यादव ने दिया जवाब",
-      "description": "दोनों नेताओं के बीच अयोध्या को लेकर ये कहासुनी विधानसभा नतीजों तक जारी रहने की उम्मीद है. बीजेपी के लिए अयोध्या का महत्व किसी से छुपा नहीं है. लोकसभा चुनाव में मिली जीत को सपा बार-बार उसे याद दिलाती है.",
-      "link": "https://ndtv.in/india/akhilesh-yadav-responds-to-yogi-adityanath-challenge-regarding-contesting-from-ayodhya-12166497#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/8udlo97o_yogi-akhilesh_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791641953.0,
-      "pubDate": "Sat, 10 Oct 2026 19:49:13 +0530"
     }
   ]
 }
