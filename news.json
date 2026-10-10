@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T01:02:20.981725+00:00",
+  "updated": "2026-10-10T01:28:02.032903+00:00",
   "news": [
+    {
+      "title": "ट्रंप ने रूस से तेल आयात का किया फ़ैसला, अपने ही लोग हैरान और ज़ेलेंस्की भड़के",
+      "description": "एक तरफ़ ट्रंप ने भारत और चीन पर रूस से तेल आयात के मामले में 100 फ़ीसदी टैरिफ़ वाले क़ानून पर हस्ताक्षर किया है, दूसरी तरफ़ अब अमेरिका ने ही रूस से तेल ख़रीदने का फ़ैसला किया है.",
+      "link": "https://www.bbc.com/hindi/articles/cqn73g2n0j1do?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+      "timestamp": 1791594826.0,
+      "pubDate": "Sat, 10 Oct 2026 01:13:46 GMT"
+    },
     {
       "title": "'मम्मी मेरी शादी कर दो मई-जून-जुलाई में' पढ़ने में नहीं लगता मन, घर बसाने का है इरादा तो एक बार मम्मी-पापा को सुना दें ये गाना",
       "description": "mummy meri shaadi kardo may june july me Song: कॉलेज की पढ़ाई से परेशान एक लड़की अपनी मां से ऐसी फरमाइश करती है कि सुनने वाले भी मुस्कुरा उठते हैं. वायरल राजस्थानी लोकगीत से बना ये गाना सोशल मीडिया पर भी जमकर हुआ वायरल.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/4a57r08c_delhi-metro_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791571409.0,
       "pubDate": "Sat, 10 Oct 2026 00:13:29 +0530"
-    },
-    {
-      "title": "सैयद सुहैल का शो: दिल्ली बना अभेद्य किला, BSF-CRPF से लेकर RAF तक तैनात, आंदोलन से पहले सुरक्षा का घेरा",
-      "description": "राजधानी दिल्ली में प्रस्तावित आंदोलन से पहले सुरक्षा व्यवस्था अभूतपूर्व स्तर पर पहुंच गई है. BSF, ITBP, CRPF, RAF और दिल्ली पुलिस के हजारों जवानों की तैनाती के साथ संवेदनशील इलाकों में कड़ी निगरानी रखी जा रही है.",
-      "link": "https://ndtv.in/india/delhi-turned-into-fortress-ahead-of-protest-bsf-crpf-raf-and-23000-personnel-deployed-12163938#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/c6ondmq8_delhi-protest_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791570853.0,
-      "pubDate": "Sat, 10 Oct 2026 00:04:13 +0530"
     }
   ]
 }
