@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-10T09:08:19.195397+00:00",
+  "updated": "2026-10-10T09:26:21.614466+00:00",
   "news": [
+    {
+      "title": "क्या लगातार हो रहे विरोध प्रदर्शनों से दबाव में है केंद्र सरकार?- द लेंस",
+      "description": "इस बार की चर्चा में इन्हीं सवालों पर बात हुई राजनीतिक विश्लेषक संजय कुमार, बीजेपी से जुड़े प्रोफ़ेसर गौरव वल्लभ और वरिष्ठ राजनीतिक विश्लेषक नीरजा चौधरी के साथ.",
+      "link": "https://www.bbc.com/hindi/articles/c933x4j65expo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fbea/live/70dd21e0-c489-11f1-a915-a1cdb09cbaf6.png",
+      "timestamp": 1791623786.0,
+      "pubDate": "Sat, 10 Oct 2026 09:16:26 GMT"
+    },
+    {
+      "title": "दिल्ली में सीजेपी प्रोटेस्ट के लिए कनॉट प्लेस पहुंचे प्रदर्शनकारी, पुलिस ने कइयों को हिरासत में लिया",
+      "description": "हालांकि जंतर-मंतर और उसके आसपास के इलाके में भारी पुलिसबल तैनात किया गया है और प्रदर्शनकारियों को हिरासत में लिया गया है.",
+      "link": "https://www.bbc.com/hindi/articles/cv2d631rlek7o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2036/live/867a77e0-c48a-11f1-a915-a1cdb09cbaf6.jpg",
+      "timestamp": 1791623736.0,
+      "pubDate": "Sat, 10 Oct 2026 09:15:36 GMT"
+    },
     {
       "title": "नेहा बोरा को हिरासत में लिया गया",
       "description": "दिल्ली में कर्फ़्यू जैसे हालात हैं. सीजेपी के विरोध प्रदर्शन को रोकने के लिए अर्द्धसैनिक बलों की कई कंपनियों को तैनात किया गया है. दर्जनों ट्रेनें और कई मेट्रो स्टेशन बंद हैं.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-09/huaj9nkg_iim_625x300_05_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791618136.0,
       "pubDate": "Sat, 10 Oct 2026 13:12:16 +0530"
-    },
-    {
-      "title": "VIDEO : खेत में कैद हुआ दर्दनाक मंजर, अजगर की गिरफ्त में जिंदगी के लिए लड़ता रहा नीलगाय का बच्चा",
-      "description": "यूपी के फतेहपुर से नीलगाय के बच्चे को निगले का खौफनाक वीडियो सामने आया है. यहां करीब 12 फीट लंबे अजगर को देखकर लोग दहशत में आ गए.",
-      "link": "https://ndtv.in/india/python-holds-nilgai-calf-in-paddy-field-emotional-video-fatehpur-12165341#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/bqv2eknc_ajgar_625x300_10_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791618033.0,
-      "pubDate": "Sat, 10 Oct 2026 13:10:33 +0530"
-    },
-    {
-      "title": "नई वंदे भारत का सफल ट्रायल, 180KM की फुल स्पीड से दौड़ी ट्रेन; 360 डिग्री घूमने वाली सीटें, ऑटोमैटिक चेंज होगा AC कोच का टेंपरेचर",
-      "description": "Vande Bharat Train: देश की नई एडवांस्ड वंदे भारत ट्रेन ने 180 की फुल स्पीड से रफ्तार पड़ी है. कपूरथला में तैयार ये पहली ट्रेन है और इसमें खुदबखुद टेंपरेचर एडजस्ट करने वाले स्पेशल एसी कोच और चारों तरफ घूमने वाली सीटें हैं.",
-      "link": "https://ndtv.in/india/new-vande-bharat-express-train-trial-at-180-kmph-on-mathura-nagda-route-360-degree-moving-seats-kapurthala-rcf-know-details-12165105#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/u0k8rbs8_-vande-bharat-trial-video_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791617859.0,
-      "pubDate": "Sat, 10 Oct 2026 13:07:39 +0530"
     }
   ]
 }
