@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-10T10:25:47.083522+00:00",
+  "updated": "2026-10-10T10:40:45.071839+00:00",
   "news": [
+    {
+      "title": "नेहा बोरा बोलीं, 'हमें हिरासत में लेने से नहीं रुकेगा आंदोलन'",
+      "description": "स्टूडेंट एक्टिविस्ट नेहा बोरा को दिल्ली पुलिस ने हिरासत में ले लिया है.",
+      "link": "https://www.bbc.com/hindi/articles/cq5yn7v75v11o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bdfc/live/e8e56e30-c494-11f1-a915-a1cdb09cbaf6.jpg",
+      "timestamp": 1791628348.0,
+      "pubDate": "Sat, 10 Oct 2026 10:32:28 GMT"
+    },
+    {
+      "title": "जंतर-मंतर प्रोटेस्ट: दीपके, नेहा बोरा समेत कई हिरासत में, लाठीचार्ज के आरोप और पुलिस से झड़प, तस्वीरों में देखें दिनभर का घटनाक्रम",
+      "description": "शनिवार को दिल्ली के जंतर-मंतर पर सीजेपी के प्रदर्शन के आह्वान के बाद सैकड़ों प्रदर्शनकारी पहुंचे. इन्हें हिरासत में लेने का सिलसिला जारी रहा. सीजेपी समेत विपक्षी दलों के कई नेता भी हिरासत में लिए गए. अब तक क्या-क्या हुआ, देखें तस्वीरों में.",
+      "link": "https://www.bbc.com/hindi/articles/cvp8gk1x78l1o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f8d/live/00982c20-c495-11f1-a915-a1cdb09cbaf6.jpg",
+      "timestamp": 1791627973.0,
+      "pubDate": "Sat, 10 Oct 2026 10:26:13 GMT"
+    },
     {
       "title": "नेहा बोरा हिरासत में लिए जाने के बाद बोलीं, 'हर नुक्कड़ को जंतर-मंतर बना दो'",
       "description": "दिल्ली में कर्फ़्यू जैसे हालात हैं. सीजेपी के विरोध प्रदर्शन को रोकने के लिए अर्द्धसैनिक बलों की कई कंपनियों को तैनात किया गया है. दर्जनों ट्रेनें और कई मेट्रो स्टेशन बंद हैं.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/gb1qu5ng_elon-musk_625x300_09_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791623318.0,
       "pubDate": "Sat, 10 Oct 2026 14:38:38 +0530"
-    },
-    {
-      "title": "41वें जन्मदिन पर शुभांशु शुक्ला ने की स्मित मच्छर की तारीफ, छात्रों से बोले- सपनों का पीछा कभी मत छोड़ो",
-      "description": "41वें जन्मदिन के मौके पर ग्रुप कैप्टन शुभांशु शुक्ला ने कैप्टन स्मित मच्छर की बहादुरी की जमकर सराहना की. साथ ही छात्रों को सपनों का पीछा करने, सही करियर विकल्प चुनने और भविष्य के अवसरों को समझने की सलाह दी.",
-      "link": "https://ndtv.in/education/shubhanshu-shukla-birthday-salutes-smit-machhar-career-advice-students-12165643#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/il78p8ko_ls_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791623055.0,
-      "pubDate": "Sat, 10 Oct 2026 14:34:15 +0530"
-    },
-    {
-      "title": "असफलता के डर और रिश्तों की उलझन को कैसे दूर करें? श्री श्री रविशंकर ने बताए आसान तरीके",
-      "description": "आर्ट ऑफ लिविंग के संस्थापक श्री श्री रविशंकर ने असफलता के डर और रिश्तों से जुड़ी परेशानियों से निपटने के कुछ आसान तरीके बताए हैं. आइए जानते हैं इनके बारे में-",
-      "link": "https://ndtv.in/lifestyle/sri-sri-ravi-shankar-shares-how-to-overcome-the-fear-of-failure-and-the-complexities-of-relationships-12165684#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/j31gp85k_sri-sri-ravi-shankar_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791622944.0,
-      "pubDate": "Sat, 10 Oct 2026 14:32:24 +0530"
     }
   ]
 }
