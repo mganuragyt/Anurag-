@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-11T15:26:19.531652+00:00",
+  "updated": "2026-10-11T15:42:29.450245+00:00",
   "news": [
+    {
+      "title": "सीजेपी प्रदर्शन के दौरान पत्रकारों के साथ क्या क्या हुआ?",
+      "description": "कॉकरोच जनता पार्टी के नेता सौरव दास ने पुलिस पर मीडिया के साथ बदसलूकी का आरोप लगाया है. उन्होंने कहा कि भारत सरकार ने पत्रकारों के साथ जंग छेड़ दी है.",
+      "link": "https://www.bbc.com/hindi/articles/c615jqn1d1qjo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f4e/live/f015d180-c585-11f1-80f2-5bd1e5df7ada.jpg",
+      "timestamp": 1791732788.0,
+      "pubDate": "Sun, 11 Oct 2026 15:33:08 GMT"
+    },
+    {
+      "title": "दिल्ली में प्रदर्शनकारियों से मारपीट के आरोप, हिंदुत्ववादी संगठन क्यों चर्चा में?",
+      "description": "सोशल मीडिया पर आलोचना होने के बावजूद मारपीट के आरोपों का सामना कर रहे ये लोग ख़ुद अपनी पहचान बताने से पीछे नहीं हटे.",
+      "link": "https://www.bbc.com/hindi/articles/cv0ld140dnlyo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aefc/live/7768b8b0-c585-11f1-80f2-5bd1e5df7ada.jpg",
+      "timestamp": 1791732742.0,
+      "pubDate": "Sun, 11 Oct 2026 15:32:22 GMT"
+    },
     {
       "title": "विजय-मोदी की केमेस्ट्री, एक दिन पहले राहुल गांधी संग दिखी दोस्ती; प्रोटोकॉल या कुछ और?",
       "description": "राजनीतिक दांव-पेच सिर्फ सरकार चलाने तक ही सीमित नहीं हैं. कांग्रेस-DMK गठबंधन ने 2019 और 2024 के लोकसभा चुनावों में तमिलनाडु में जबरदस्त जीत हासिल की थी. 2029 में TVK-कांग्रेस की साझेदारी इस समीकरण को बदल सकती है.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/tjsnoufg_fasttag_625x300_11_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791723461.0,
       "pubDate": "Sun, 11 Oct 2026 18:27:41 +0530"
-    },
-    {
-      "title": "हवा में थी दिल्ली-चेन्नई इंडिगो फ्लाइट और केबिन में लग गई आग, टला बड़ा हादसा, VIDEO",
-      "description": "दिल्ली से चेन्नई जा रही इंडिगो की एक फ्लाइट में अचानक आग लगने से अफरा-तफरी जैसी स्थिति हो गई. इस घटना के बाद फ्लाइट को चेन्नई के बदले हैदराबाद में उतारा गया. फ्लाइट में लगी आग का एक वीडियो भी सामने आया है.",
-      "link": "https://ndtv.in/india/powerbank-triggers-fire-on-delhi-chennai-indigo-flight-video-plane-diverted-12169922#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/ikq6403c_phoot_625x300_11_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791723008.0,
-      "pubDate": "Sun, 11 Oct 2026 18:20:08 +0530"
-    },
-    {
-      "title": "बच्चों के दांतों में कैविटी क्यों होती है? जानें कारण और बचाव के उपाय",
-      "description": "क्या सच में ज्यादा चॉकलेट या मीठा खाने से दांत खराब होते हैं, एक्सपर्ट से जानें.",
-      "link": "https://ndtv.in/health/tooth-cavities-in-kids-dando-ke-kido-ko-kaise-dur-kare-12170061#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/060587bk_ara_625x300_11_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791722474.0,
-      "pubDate": "Sun, 11 Oct 2026 18:11:14 +0530"
     }
   ]
 }
