@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-12T07:46:58.862602+00:00",
+  "updated": "2026-10-12T08:10:28.777190+00:00",
   "news": [
+    {
+      "title": "कैंसर, कम उम्र में मेनोपॉज़ और 23 साल तक फ्रीज़ रहे एग्स से यूं हुआ स्वस्थ बच्चे का जन्म",
+      "description": "यह विज्ञान की कामयाबी की कहानी तो है ही लेकिन एक महिला की बहादुरी की भी कहानी है.",
+      "link": "https://www.bbc.com/hindi/articles/cw2037xyp7ejo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/154c/live/2e910ac0-c247-11f1-9670-0b564215b759.jpg",
+      "timestamp": 1791792126.0,
+      "pubDate": "Mon, 12 Oct 2026 08:02:06 GMT"
+    },
     {
       "title": "दिवाली से पहले झटका! Mahindra Scorpio की कीमतों में अचानक इजाफा, जानें कितनी महंगी हो गई ये SUV?",
       "description": "Mahindra XUV 3XO CNG के लॉन्च बीच कंपनी ने बड़ा फैसला लिया है. Mahindra Scorpio की कीमतों में इजापा देखने को मिल रहा है. कंपनी ने Scorpio N के दाम को भी बढ़ाया है.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/h381rd8k_badbu-wale-kide-kaise-bhagaye_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791781676.0,
       "pubDate": "Mon, 12 Oct 2026 10:37:56 +0530"
-    },
-    {
-      "title": "LIVE: विपक्ष के मार्च पर CJI का जवाब, बोले- सुप्रीम कोर्ट के दरवाजे सबके लिए खुले",
-      "description": "CEC ज्ञानेश कुमार के खिलाफ प्रोटेस्ट जारी है. राहुल गांधी ने 12 अक्टूबर को सुप्रीम कोर्ट तक मार्च का ऐलान किया है. वोट चोरी, SIR रोकने और इस्तीफे की मांग को लेकर CJI को ज्ञापन देने की बात कही है, लेकिन चीफ जस्टिस ने वक्त देने से मना कर दिया है.",
-      "link": "https://ndtv.in/india/rahul-gandhi-protest-to-supreme-court-live-updates-opposition-march-delhi-cec-gyanesh-kumar-metro-service-abhijeet-dipke-neha-bora-12171598#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/hhpc27n_rahul-gandhi-supreme-court-march-today_625x300_12_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791781578.0,
-      "pubDate": "Mon, 12 Oct 2026 10:36:18 +0530"
     }
   ]
 }
