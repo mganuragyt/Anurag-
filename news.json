@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-12T15:33:56.647715+00:00",
+  "updated": "2026-10-12T15:57:49.358070+00:00",
   "news": [
+    {
+      "title": "दिल्ली प्रदर्शन में पुलिस ने जिन्हें हिरासत में लिया, उनकी ऐसे हो रही मदद",
+      "description": "हिरासत में लिए जाने वाले प्रदर्शनकारियों की मदद के लिए एक शख़्स ने ख़ास डैशबोर्ड तैयार किया है, जिसका नाम है 'डिटेनी घर वापसी योजना'.",
+      "link": "https://www.bbc.com/hindi/articles/cwp8gv3zl8xno?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e54/live/507173f0-c64d-11f1-a64c-550be9e3c66b.jpg",
+      "timestamp": 1791820529.0,
+      "pubDate": "Mon, 12 Oct 2026 15:55:29 GMT"
+    },
+    {
+      "title": "नेपाल के पीएम शाह हिमालयी आपदाओं से निपटने के लिए भारत और चीन को साथ ला पाएंगे?",
+      "description": "नेपाल के प्रधानमंत्री बालेंद्र शाह ने हाल में संयुक्त राष्ट्र महासभा में भाषण दिया. इस भाषण का बड़ा हिस्सा बीते अगस्त में नेपाल में आई मलबे से भरी विनाशकारी बाढ़ और हिमालयी क्षेत्र पर मंडरा रहे आपदाओं के ख़तरों पर था.",
+      "link": "https://www.bbc.com/hindi/articles/cmlydryke974o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/704c/live/ad28d240-c24d-11f1-ab30-1f92d324dff9.jpg",
+      "timestamp": 1791820351.0,
+      "pubDate": "Mon, 12 Oct 2026 15:52:31 GMT"
+    },
     {
       "title": "सुनील भारती मित्तल को फ्रांस का सर्वोच्च नागरिक सम्मान 'लीजन ऑफ ऑनर'",
       "description": "नई दिल्ली में एक कार्यक्रम के दौरान सुनील भारती मित्तल को फ्रांस का सर्वोच्च नागरिक सम्मान चिन्ह प्रदान किया जाएगा. यह कार्यक्रम फ्रांस दूतावास में आयाजित होगा.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/m61j735_neha-bora_625x300_12_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1791814203.0,
       "pubDate": "Mon, 12 Oct 2026 19:40:03 +0530"
-    },
-    {
-      "title": "राहुल गांधी विपक्षी नेताओं के साथ सुप्रीम कोर्ट पहुंचे, 'वोट चोरी' को लेकर दाख़िल की याचिका",
-      "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफ़े, कथित ‘वोट चोरी’ और एसआईआर प्रक्रिया रोकने की मांग को लेकर विपक्षी दल सुप्रीम कोर्ट तक मार्च निकाल रहे हैं.",
-      "link": "https://www.bbc.com/hindi/articles/cqx29x3lp021o?at_medium=RSS&at_campaign=rss",
-      "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06ae/live/604c2ef0-c643-11f1-b47f-e3f9cf703bc3.jpg",
-      "timestamp": 1791814162.0,
-      "pubDate": "Mon, 12 Oct 2026 14:09:22 GMT"
-    },
-    {
-      "title": "बीकानेर में जैन व्यापारी को कंजूस कहकर उड़ाया मजाक, तो 40 हजार किलो घी से बनवा दिया पूरा मंदिर",
-      "description": "बीकानेर में स्थित 550 साल पुराने भांडशाह जैन मंदिर को बनाने में पानी की जगह 40 हजार किलो देसी घी का इस्तेमाल किया गया था. आज भी जब तपती गर्मी पड़ती है, तो इसकी दीवारों और फर्श से घी की महक और चिकनाई साफ महसूस की जा सकती है.",
-      "link": "https://ndtv.in/zara-hatke/bhandasar-sumatinath-jain-temple-bikaner-rajasthan-15th-century-built-with-40000-kg-ghee-12174807#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/rjm3lssc_bhandasar-sumatinath-jain-temple-bikaner-rajasthan-15th-century-built-with-40000-kg-ghee_625x300_12_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1791813274.0,
-      "pubDate": "Mon, 12 Oct 2026 19:24:34 +0530"
     }
   ]
 }
