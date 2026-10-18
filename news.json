@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-18T10:42:48.918327+00:00",
+  "updated": "2026-10-18T11:04:38.739714+00:00",
   "news": [
+    {
+      "title": "चीन और एआई से दुनिया के बड़ी वित्तीय ताक़तें क्यों चिंतित हैं?",
+      "description": "इस सप्ताह बैंकॉक में हुई आईएमएफ की बैठक में वित्त और व्यापार जगत के नेताओं ने एआई के बाद आने वाली अनिश्चितता पर चर्चा की.",
+      "link": "https://www.bbc.com/hindi/articles/cmn4eldkx190o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba8/live/ea5ead70-c986-11f1-b646-2b044167639a.jpg",
+      "timestamp": 1792321073.0,
+      "pubDate": "Sun, 18 Oct 2026 10:57:53 GMT"
+    },
     {
       "title": "डांडिया नाइट में 27 सालों से गूंज रही 90s के गाने की छनकार, Falguni Pathak की आवाज में बना कल्ट",
       "description": "फाल्गुनी पाठक का हिट म्यूजिक वीडियो 'मैंने पायल है छनकाई' 1999 में रिलीज हुआ. हिट म्यूजिक वीडियो में नजर आईं थीं एक्ट्रेस हिमानी राजीव शाह. यह गाना डांडिया नाइट के लिए आज भी पहली पसंद है.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/5tjbrv4g_gold-etf_625x300_18_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792314159.0,
       "pubDate": "Sun, 18 Oct 2026 14:32:39 +0530"
-    },
-    {
-      "title": "Exclusive: बदहवास दौड़ते लोग, बिलखते बच्चे... कोलकाता दुर्गा पूजा भगदड़ का वीडियो आया सामने",
-      "description": "हादसे से जुड़े वीडियो में वह लम्हा देखा जा सकता है, जब शनिवार शाम कोलकाता के एक दुर्गा पूजा पंडाल में भगदड़ मच गई. इस हादसे में 19 लोगों की मौत है.",
-      "link": "https://ndtv.in/india/kolkata-durga-puja-stampede-broke-out-video-shows-moment-killing-19-people-12202215#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/h0vhmq0c_kolkata-durga-puja_625x300_18_October_26.gif",
-      "timestamp": 1792314100.0,
-      "pubDate": "Sun, 18 Oct 2026 14:31:40 +0530"
     }
   ]
 }
