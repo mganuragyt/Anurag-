@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T10:17:37.370483+00:00",
+  "updated": "2026-10-19T10:58:22.095531+00:00",
   "news": [
+    {
+      "title": "रूसी तेल पर भारत को राहत, अमेरिकी विदेश मंत्री के बयान में क्या संकेत?",
+      "description": "अमेरिकी विदेश मंत्री मार्को रुबियो के बयान में दिखता है कि अमेरिका ने भारत पर तत्काल सख़्ती से फ़िलहाल परहेज़ किया है. अमेरिका के इस रुख़ के भारत के लिए क्या मायने हैं.",
+      "link": "https://www.bbc.com/hindi/articles/c6wyr32gxvg3o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a407/live/fda0b3f0-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
+      "timestamp": 1792407156.0,
+      "pubDate": "Mon, 19 Oct 2026 10:52:36 GMT"
+    },
     {
       "title": "टाइगर श्रॉफ़ पर हमला: पकड़े गए अभियुक्तों के बारे में पुलिस ने क्या बताया, लॉरेंस गैंग पर बोले सीएम फडणवीस",
       "description": "टाइगर श्रॉफ़ पर मुंबई में हुई गोलीबारी के मामले में कोटा पुलिस ने तीन अभियुक्तों को हिरासत में लिया है. पुलिस के मुताबिक़, शुरुआती पूछताछ में एक अभियुक्त का लॉरेंस बिश्नोई गैंग से कनेक्शन सामने आया है.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/25rqd6ck_amit-trivedi_625x300_19_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792401127.0,
       "pubDate": "Mon, 19 Oct 2026 14:42:07 +0530"
-    },
-    {
-      "title": "एलन मस्क का ऐलान- हर अमेरिकी बच्चे को देंगे SpaceX का एक शेयर, 38 देशों की GDP से भी बड़ा है यह महादान",
-      "description": "दुनिया के सबसे अमीर शख्स एलन मस्क ने बड़ा ऐलान किया है. उन्होंने कहा है कि अगले साल वह अमेरिका के हर बच्चें को SpaceX का एक शेयर देने जा रहे हैं.",
-      "link": "https://ndtv.in/world-news/elon-musk-will-give-one-share-of-spacex-to-every-child-in-america-12205583#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/5l334rqc_elon-musk_625x300_19_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792400965.0,
-      "pubDate": "Mon, 19 Oct 2026 14:39:25 +0530"
     }
   ]
 }
