@@ -1,6 +1,51 @@
 {
-  "updated": "2026-10-22T10:59:16.331884+00:00",
+  "updated": "2026-10-22T11:28:50.874463+00:00",
   "news": [
+    {
+      "title": "पीएम आवास के पास रेस कोर्स मस्जिद विवाद क्या है?",
+      "description": "दिल्ली के रेस कोर्स इलाके में एक ऐतिहासिक मस्जिद और मंदिर का बिजली, पानी काटे जाने के बाद विवाद हो रहा है.",
+      "link": "https://www.bbc.com/hindi/articles/c30rlpjrkq7po?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e12b/live/9f618900-cdff-11f1-9a39-31b474234113.jpg",
+      "timestamp": 1792667434.0,
+      "pubDate": "Thu, 22 Oct 2026 11:10:34 GMT"
+    },
+    {
+      "title": "IPS पूर्वा चौधरी SVPNPA पास‍िंग आउट परेड के बाद हुईं भावुक, नानी-मां के स‍िर कैप रख बोला-'मां तुझे सलाम'",
+      "description": "IPS पूर्वा चौधरी ने SVPNPA की पासिंग परेड के बाद मां और नानी के सिर पर अपनी कैप रखी तो वे भावुक हो गईं. तीसरे प्रयास में UPSC पास करने वाली पूर्वा चौधरी पंजाब कैडर की 2025 बैच की आईपीएस हैं.",
+      "link": "https://ndtv.in/education/ips-poorva-choudhary-instagram-post-success-story-12215777#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/d7h691ig_ips-poorva-choudhary-instagram-post-success-story_625x300_22_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1792667286.0,
+      "pubDate": "Thu, 22 Oct 2026 16:38:06 +0530"
+    },
+    {
+      "title": "पागल कुत्ते के काटते ही गाय की मौत, उसी के दूध से बना चरणामृत गांव में बंटा; 450 लोगों को लगी रेबीज की वैक्सीन",
+      "description": "गोरखपुर के गोला ब्लॉक के डाड़ी खास गांव में दुर्गा पूजा का चरणामृत पीने वाले 450 लोगों को एंटी-रेबीज वैक्सीन लगाई गई है.",
+      "link": "https://ndtv.in/india/gorakhpur-charanamrit-becomes-trouble-450-people-take-anti-rabies-vaccine-cow-died-after-dog-bite-12220020#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/htlo9bas_gorakhpur_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1792666785.0,
+      "pubDate": "Thu, 22 Oct 2026 16:29:45 +0530"
+    },
+    {
+      "title": "सुरक्षा दावों के बीच कितना सुरक्षित है बैंक कस्टमर का डेटा",
+      "description": "सार्वजनिक क्षेत्र के देश के सबसे बड़े बैंक एसबीआई के ग्राहकों का डेटा लीक होने की खबर है, इस खबर ने बैंक ग्राहकों के डेटा की सुरक्षा को लेकर कई सवाल खड़े किए हैं. बैंक ग्राहकों के डेटा की सुरक्षा पहलुओं पर नजर डाल रहे हैं डॉक्टर समीर शेखर.",
+      "link": "https://ndtv.in/blogs/sbi-data-leak-raises-cybersecurity-concerns-is-india-digital-banking-ecosystem-truly-safe-12220134#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/ak727ct_representational-image-_625x300_22_October_26.jpeg",
+      "timestamp": 1792666784.0,
+      "pubDate": "Thu, 22 Oct 2026 16:29:44 +0530"
+    },
+    {
+      "title": "भारत अब दुनिया की बड़ी जिम्मेदारियों के लिए तैयार... इटली के राजदूत ने PM मोदी और मेलोनी की दोस्ती पर क्या कहा",
+      "description": "NDTV World Summit: नई दिल्ली में आयोजित NDTV World Summit 2026 के दौरान एनडीटीवी के आदित्य राज कौल से बातचीत में बार्टोली ने भारत-इटली संबंधों, वैश्विक व्यापार मार्गों, पश्चिम एशिया की स्थिति और भारत की शांति स्थापना की भूमिका पर खुलकर बात की.",
+      "link": "https://ndtv.in/india/ndtv-world-summit-2026-italy-ambassdor-pm-modi-meloni-melody-moment-india-role-in-peace-12220137#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/vkls2a48_india_625x300_22_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1792666704.0,
+      "pubDate": "Thu, 22 Oct 2026 16:28:24 +0530"
+    },
     {
       "title": "रूस के भीतर पुतिन के ख़िलाफ़ एक नेटवर्क जिसने ड्रोन हमलों में यूक्रेन की मदद की",
       "description": "रूस के दो लोगों ने दावा किया है कि वो यूक्रेन के लिए काम कर रहे हैं और ये उनकी विचारधारा का हिस्सा है. इन दोनों ने यूक्रेन की मदद की ताकि वो रूस में ड्रोन हमले कर सके.",
@@ -9,6 +54,24 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6044/live/55b7ca10-c979-11f1-a64c-550be9e3c66b.jpg",
       "timestamp": 1792666393.0,
       "pubDate": "Thu, 22 Oct 2026 10:53:13 GMT"
+    },
+    {
+      "title": "EU-इंडिया ट्रेड डील ट्रैक पर, साल के अंत तक मुहर मुमकिन-NDTV WORLD Summit में बोले EU राजदूत",
+      "description": "EU के राजदूत ने कहा कि भारत और 27 देशों वाले यूरोपियन यूनियन के बीच वार्ता चल रही है. इस साल के अंत तक दोनों के बीच कारोबारी समझौता हो जाएगा.",
+      "link": "https://ndtv.in/india/india-and-european-union-trade-deal-could-happen-till-december-says-eu-ambassador-in-ndtv-world-summit-12220097#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/eo4g1qms_eu-world-summit_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1792666387.0,
+      "pubDate": "Thu, 22 Oct 2026 16:23:07 +0530"
+    },
+    {
+      "title": "पहले टक्कर मारी फिर कार पीछे लेकर कुचला! अलीगढ़ में ऑडी कार का कहर; युवक की मौत",
+      "description": "अलीगढ़ के बन्नादेवी क्षेत्र में तेज रफ्तार ऑडी कार ने बाइक सवार दो युवकों को टक्कर मार दी.",
+      "link": "https://ndtv.in/uttar-pradesh-news/aligarh-audi-car-hit-motorcycle-and-then-ran-over-youths-again-one-died-12220073#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/45v2vnpo_uttarprdesh_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1792666090.0,
+      "pubDate": "Thu, 22 Oct 2026 16:18:10 +0530"
     },
     {
       "title": "ड्राइविंग लाइसेंस बनवाने से लेकर अपडेट कराने तक बदलेगा नियम, कई सेवाएं होगी मुफ्त, सरकार ने जारी किया नया ड्राफ्ट",
@@ -117,69 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/hqc8sg2s_ewaste-disposal_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792662711.0,
       "pubDate": "Thu, 22 Oct 2026 15:21:51 +0530"
-    },
-    {
-      "title": "सैफई परिवार का कोई यादव जेल में होता तो आंदोलन करते अखिलेश, फिर आजम पर क्यों चुप्पी: AIMIM",
-      "description": "असदुद्दीन ओवैसी लगातार अखिलेश यादव और सपा पर हमलावर हैं. उन्होंने जिसकी जितनी संख्या भारी, उसकी उतरी हिस्सेदारी वाला सवाल भी कई बार उठाया है.",
-      "link": "https://ndtv.in/india/asaduddin-owaisi-aimim-targets-akhilesh-yadav-says-if-any-yadav-will-be-in-jail-12219731#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/uc9n6jl8_akhilesh-yadav_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792662554.0,
-      "pubDate": "Thu, 22 Oct 2026 15:19:14 +0530"
-    },
-    {
-      "title": "38 साल पुराना वो गाना, जो आज भी हर बेटे को याद दिलाता है पिता का सपना, उदित नारायण की आवाज और मजरूह सुल्तानपुरी के बोल से हुआ अमर",
-      "description": "रोमांस के दौर में एक गाना ऐसा आया था, जिसने बाप-बेटे के रिश्ते को मजबूत किया था. इस गाने को millennials से लेकर Gen-Z तक हर कोई पसंद करता आया है.",
-      "link": "https://ndtv.in/bollywood/38-year-old-udit-narayan-song-papa-kehte-hain-reminds-every-son-of-his-father-dream-become-timeless-by-majrooh-sultanpuri-lyrics-12219721#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/6ap2ra5_papa-kehte-hain_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792662429.0,
-      "pubDate": "Thu, 22 Oct 2026 15:17:09 +0530"
-    },
-    {
-      "title": "‘मन के मते न चलिये...’ कबीर दास के ये 5 दोहे बदल देंगे छात्रों के जीने का नजरिया, आज ही पढ़ें इनका असली अर्थ",
-      "description": "Kabir Ke Dohe with Hindi Meaning : परीक्षाओं के दबाव और मानसिक भटकाव के बीच कबीर दास जी के ये 5 दोहे हर स्टूडेंट और युवा के लिए मार्गदर्शक हैं. मन को कंट्रोल करने में और असली ज्ञान की पहचान कराने वाले इन दोहों का अर्थ आसान भाषा में यहां पढ़ें.",
-      "link": "https://ndtv.in/education/kabir-das-ke-dohe-with-meaning-for-students-success-and-motivation-education-category-12219513#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/h5jqhtho_edu_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792662420.0,
-      "pubDate": "Thu, 22 Oct 2026 15:17:00 +0530"
-    },
-    {
-      "title": "जब एक्ट्रेस को बुलबुल बनाकर राजेश खन्ना ने 52 साल पहले कराया था डांस, किशोर कुमार की आवाज, आनंद बख्शी के बोल बने सदाबहार",
-      "description": "70s का राजेश खन्ना और किशोर कुमार का गाना, जिसके मजेदार अंदाज और दिलचस्प बोलों के लिए खूब पसंद किया गया. राजेश खन्ना ने एक्ट्रेस को बुलबुल बनाकर कराया था डांस.",
-      "link": "https://ndtv.in/bollywood/kishore-kumar-rajesh-khanna-50-year-old-song-nach-meri-bulbul-actress-danced-like-bulbul-anand-bakshi-lyrics-made-this-song-cult-12209233#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/f7aa2058_kishore-kumar_625x300_20_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792662093.0,
-      "pubDate": "Thu, 22 Oct 2026 15:11:33 +0530"
-    },
-    {
-      "title": "प्रेम प्रसंग नहीं खुले इसलिए मां ने प्रेमी के साथ मिलकर करवा दी दो जुड़वा बेटों की हत्या",
-      "description": "राजस्थान के डीग से एक हैरान करने वाला मामला सामने आया है. यहां 13-13 साल के दो जुड़वा भाइयों की हत्या बीते दिनों हुई थी. अब पुलिस ने खुलासा किया है कि उसकी मां ने ही प्रेमी के साथ मिलकर कर इस वारदात को अंजाम दिया.",
-      "link": "https://ndtv.in/india/deeg-double-murder-mother-killed-twin-sons-with-her-lover-to-keep-illicit-affair-unexposed-12219696#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/rjjgh5o_deeg-double-murder_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792662047.0,
-      "pubDate": "Thu, 22 Oct 2026 15:10:47 +0530"
-    },
-    {
-      "title": "सऊदी अरब में बांग्लादेशी महिला कामगार कितनी सुरक्षित हैं?",
-      "description": "बांग्लादेश अपने यहां से सऊदी अरब में सबसे अधिक महिला कामगार भेजता है, लेकिन वहां महिला कामगारों के साथ दुर्व्यवहार की कई शिकायतें आई हैं. सऊदी अरब में उनकी सुरक्षा के कितने पुख्ता इंतज़ाम हैं.",
-      "link": "https://www.bbc.com/hindi/articles/c3vgxdnw85qzo?at_medium=RSS&at_campaign=rss",
-      "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c536/live/48cd1240-cde5-11f1-8443-776dd2459391.jpg",
-      "timestamp": 1792661934.0,
-      "pubDate": "Thu, 22 Oct 2026 09:38:54 GMT"
-    },
-    {
-      "title": "Akka Trailer: नेटफ्लिक्स सीरीज अक्का का ट्रेलर रिलीज, साउथ की कीर्ति से बॉलीवुड की राधिका की टक्कर",
-      "description": "Akka Trailer: नेटफ्लिक्स ने अपनी नई वेब सीरीज ‘अक्का’ का ट्रेलर जारी कर दिया है. यह सीरीज वाईआरएफ एंटरटेनमेंट द्वारा बनाई गई है. इसमें कीर्ति सुरेश और राधिका आप्टे मुख्य भूमिका में हैं. दोनों एक्ट्रेस के बीच एक जोरदार टक्कर दिखाई गई है.",
-      "link": "https://ndtv.in/bollywood/akka-trailer-keerthy-suresh-radhika-apte-in-netflix-web-series-12219656#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/vhv48nis_akka-web-series_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792661864.0,
-      "pubDate": "Thu, 22 Oct 2026 15:07:44 +0530"
     }
   ]
 }
