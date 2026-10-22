@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-22T13:34:50.035720+00:00",
+  "updated": "2026-10-22T14:16:39.805338+00:00",
   "news": [
+    {
+      "title": "एक सड़क हादसे ने महक को व्हीलचेयर पर ला दिया, लेकिन उनकी कहानी कैसे मिसाल बन गई?",
+      "description": "19 साल की महक की कहानी मिसाल है उन लोगों की जो चुनौतियों के बीच हिम्मत नहीं हारते...अपने हौसले से कामयाबी की डगर बनाते चलते हैं.",
+      "link": "https://www.bbc.com/hindi/articles/cwly34r7yy5no?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/22c0/live/1537caa0-cd7d-11f1-9a39-31b474234113.jpg",
+      "timestamp": 1792678123.0,
+      "pubDate": "Thu, 22 Oct 2026 14:08:43 GMT"
+    },
     {
       "title": "पीएचपी क्या है और इस साइबर अलर्ट से भारतीय यूज़र्स को कितना ख़तरा",
       "description": "पीएचपी में एआई की मदद से मिली गंभीर सुरक्षा ख़ामियों ने दुनियाभर में अलर्ट बढ़ा दिया है. भारतीय यूज़र्स के लिए यह कितनी बड़ी चिंता है और आम लोगों को इससे कितना ख़तरा है?",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/jcsagj84_mamta-kulkarni_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792672068.0,
       "pubDate": "Thu, 22 Oct 2026 17:57:48 +0530"
-    },
-    {
-      "title": "घर की बालकनी और दीवार पर उगे पीपल के पेड़ को कैसे हटाएं? जानें नमक का घोल कैसे करेगा कमाल",
-      "description": "पीपल के पेड़ को समय रहते हटाया नहीं जाए तो ये छत और दीवारों को नुकसान पहुंचाने लगता है. अगर, आपके घर, छत और बालकनी में पीपल का पेड़ उग गया है तो यहां जानिए पीपल के पेड़ को कैसे हटाएं?",
-      "link": "https://ndtv.in/lifestyle/how-to-remove-peepal-plant-from-roof-peepal-ka-ped-kaise-hataye-12220735#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/ee247hg_pipal-ka-podha-kaise-hataye_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792671901.0,
-      "pubDate": "Thu, 22 Oct 2026 17:55:01 +0530"
     }
   ]
 }
