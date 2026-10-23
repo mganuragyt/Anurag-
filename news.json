@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T09:16:07.789059+00:00",
+  "updated": "2026-10-23T09:59:42.840236+00:00",
   "news": [
+    {
+      "title": "'भारत चीन बॉर्डर पर आमने-सामने की स्थिति जारी', आईटीबीपी डीजी के बयान पर सियासत गरमाई",
+      "description": "अरुणाचल प्रदेश सीमा पर तनाव की स्थिति को लेकर आईटीबीपी के डीजी के बयान को लेकर कांग्रेस और विपक्ष ने केंद्र सरकार को घेरा है. अभिजीत दीपके ने भी सरकार पर तंज़ किया है.",
+      "link": "https://www.bbc.com/hindi/articles/cwjdmrn83j3ko?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b1d/live/91ab13b0-ceb0-11f1-ae9c-0303957c36f8.jpg",
+      "timestamp": 1792748598.0,
+      "pubDate": "Fri, 23 Oct 2026 09:43:18 GMT"
+    },
     {
       "title": "सबसे ताकतवर रोटी कौन सी है?",
       "description": "रागी, बाजरा, ज्वार, गेहूं और मल्टीग्रेन में से कौन सी रोटी आपकी सेहत के लिए ज्यादा फायदेमंद है. यहां जानें.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/e9i6o15s_z_625x300_23_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792743862.0,
       "pubDate": "Fri, 23 Oct 2026 13:54:22 +0530"
-    },
-    {
-      "title": "गिरगिट घर में ना आए इसके लिए क्या करें? सरीसृप को भगाने के लिए क्या जलाना चाहिए",
-      "description": "Girgit ko Ghar se Kaise Bhagaye: घर में गिरगिट न आए, इसके लिए खिड़कियों पर जाली लगाएं, दरारें बंद करें और कीड़े-मकोड़ों को नियंत्रित रखें. कपूर, गोबर के उपले या लहसुन के छिलके जलाने से गिरगिट भागते हैं. साथ ही इसका ठोस वैज्ञानिक प्रमाण नहीं है.",
-      "link": "https://ndtv.in/lifestyle/girgit-ko-ghar-se-kaise-bhagaye-sarisarp-ko-bhagane-ki-dawa-girgit-ko-ghar-se-bhagane-ke-liye-kya-jalayen-12224361#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/ecqeu0t4_girgit_625x300_23_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792743538.0,
-      "pubDate": "Fri, 23 Oct 2026 13:48:58 +0530"
     }
   ]
 }
