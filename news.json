@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-23T14:18:57.938105+00:00",
+  "updated": "2026-10-23T15:03:11.957536+00:00",
   "news": [
+    {
+      "title": "मध्य प्रदेश: कहीं 5 तो कहीं 33,500 रुपये प्रति लीटर में ख़रीदा फ़िनाइल, सरकारी ख़रीद में इतना फ़र्क क्यों?",
+      "description": "मध्य प्रदेश के 374 नगरीय निकायों की सरकारी ख़रीद में सामानों की क़ीमतों में बड़े अंतर का मामला सामने आया है. विभाग के मुताबिक़, 1,134 करोड़ रुपये की ख़रीद में औसत क़ीमतों पर ख़रीदारी होती तो क़रीब 250 करोड़ रुपये की बचत हो सकती थी.",
+      "link": "https://www.bbc.com/hindi/articles/c95ynp3626dvo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/701d/live/586f96e0-ce36-11f1-bc2e-018d645d8d21.png",
+      "timestamp": 1792767014.0,
+      "pubDate": "Fri, 23 Oct 2026 14:50:14 GMT"
+    },
     {
       "title": "'भारत के लिए खतरा बिल्कुल रियल': NDTV वर्ल्ड समिट में माइक्रोसॉफ्ट के AI विशेषज्ञ निकोलस बट्स",
       "description": "बट्स ने \"रूस और चीन द्वारा समर्थित ऐसे समूहों का जिक्र किया, जो अपनी जासूसी मुहिम के लिए एजेंटों का इस्तेमाल करते हैं.\" उन्होंने बताया, \"कल (22 अक्टूबर ) ही, माइक्रोसॉफ्ट ने एक नए 'स्टेट एक्टर' (सरकारी समर्थन वाले समूह) के बारे में एक नई 'थ्रेट इंटेलिजेंस' रिपोर्ट जारी की है.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/0iarkpqc_attack_625x300_23_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792761347.0,
       "pubDate": "Fri, 23 Oct 2026 18:45:47 +0530"
-    },
-    {
-      "title": "हाथ से निकल रही है AI की ताकत! Google DeepMind के पूर्व रिसर्चर ने भारत में दी सबसे बड़ी चेतावनी",
-      "description": "NDTV World Summit 2026 में AI रिसर्चर और Google DeepMind के पूर्व रिसर्चर Alex Turner ने AI की सेफ्टी को लेकर चौंकाने वाले खुलासे किए.",
-      "link": "https://ndtv.in/tech/ex-google-deepmind-alex-turner-ndtv-world-summit-pacing-ai-growth-12225554#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/lorupils_alex-turner_625x300_23_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1792761342.0,
-      "pubDate": "Fri, 23 Oct 2026 18:45:42 +0530"
     }
   ]
 }
