@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-25T09:18:46.450264+00:00",
+  "updated": "2026-10-25T09:54:47.565766+00:00",
   "news": [
+    {
+      "title": "छोटे से घर में रहने वाले जादूगर साहिल, जो दुनिया भर में मैजिक शो करना चाहते हैं",
+      "description": "छोटा घर, छोटी उम्र, लेकिन सपने बड़े, जादूगर साहिल क्या-क्या करना चाहते हैं?",
+      "link": "https://www.bbc.com/hindi/articles/c60rl4ved144o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ad5/live/12c17830-d056-11f1-b441-2b33b063138f.jpg",
+      "timestamp": 1792920985.0,
+      "pubDate": "Sun, 25 Oct 2026 09:36:25 GMT"
+    },
     {
       "title": "सऊदी में फंसे भारतीय उमरा यात्रियों ने बीबीसी को क्या बताया?",
       "description": "सऊदी अरब पर हूती विद्रोहियों के हमले के बीच भारत से कई हज यात्री वहां फंस गए हैं. बीबीसी न्यूज़ हिन्दी ने उनसे बात करके पता किया कि उनका क्या हाल है और उन्हें किन परेशानियों का सामना करना पड़ रहा है.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/oklbmmuo_rekha-_625x300_25_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
       "timestamp": 1792911584.0,
       "pubDate": "Sun, 25 Oct 2026 12:29:44 +0530"
-    },
-    {
-      "title": "6 महीने में 23 लोगों को फांसी की सजा सुनाने वाले जज का हो गया ट्रांसफर, उनकी जगह कौन आया",
-      "description": "अपर जिला एवं सत्र न्यायाधीश (एडीजे) रवि कुमार दिवाकर ने इस साल अप्रैल से सितंबर के बीच 11 मामलों में 23 लोगों को मौत की सजा सुनाई थी.",
-      "link": "https://ndtv.in/uttar-pradesh-news/district-and-sessions-judge-adj-ravi-kumar-diwakar-transferred-to-muzaffarnagar-family-court-allahabad-high-court-12232623#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2022-10/mpojkr1k_court-generic-fourt-files-generic-files-in-court-pixabay_625x300_11_October_22.jpg",
-      "timestamp": 1792911261.0,
-      "pubDate": "Sun, 25 Oct 2026 12:24:21 +0530"
     }
   ]
 }
