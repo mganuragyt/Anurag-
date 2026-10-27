@@ -1,8 +1,71 @@
 {
-  "updated": "2026-10-27T07:43:24.907100+00:00",
+  "updated": "2026-10-27T08:22:39.186283+00:00",
   "news": [
     {
-      "title": "इस नदी के किनारे क्या सोना मिलता है?- ग्राउंड रिपोर्ट",
+      "title": "अर्नब साइक्लोन देश के इन हिस्सों में देने जा रहा है दस्तक, कई ट्रेनें रद्द",
+      "description": "अर्नब साइक्लोन के कारण हवा की अधिकतम गति 125–135 किलोमीटर प्रति घंटा रहने और झोंकों की गति 150 किलोमीटर प्रति घंटे तक पहुँचने की संभावना है.",
+      "link": "https://www.bbc.com/hindi/articles/cxj0lde31j1no?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/51bd/live/29072030-d1d8-11f1-9f3a-894a9e311fa8.jpg",
+      "timestamp": 1793087999.0,
+      "pubDate": "Tue, 27 Oct 2026 07:59:59 GMT"
+    },
+    {
+      "title": "वरुण धवन और कृति सेनन बने भारत के नए ‘ऑब्सेशन’, ग्लोबल ब्लॉकबस्टर फिल्म के हिंदी वर्जन में देंगे अपनी आवाज, जानें कब और कहां होगी स्ट्रीम",
+      "description": "दुनियाभर के बॉक्स ऑफिस पर शानदार सफलता हासिल करने के बाद क्यूरी बार्कर की फिल्म ‘ऑब्सेशन’ 30 अक्टूबर को JioHotstar के Peacock Hub पर प्रीमियर के लिए तैयार है.",
+      "link": "https://ndtv.in/bollywood/varun-dhawan-and-kriti-sanon-have-become-india-new-obsession-will-lend-their-voices-to-the-hindi-version-of-a-global-blockbuster-film-12241758#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/bjrucf6c_kriti-_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793087572.0,
+      "pubDate": "Tue, 27 Oct 2026 13:22:52 +0530"
+    },
+    {
+      "title": "किस विटामिन की कमी से पैर ठंडे रहते हैं और कैसे करें इसकी कमी दूर",
+      "description": "क्या आपको पैरों में अक्सर ठंड लगती है? अगर हां, तो ये नॉर्मल नहीं कई बार विटामिन की कमी के लक्षण हो सकते हैं. यहां जानते हैं किस विटामिन की कमी से पैरों में ठंड लगती है?",
+      "link": "https://ndtv.in/food/which-vitamin-deficiency-cause-feeling-cold-in-feet-kis-vitamin-ki-kami-se-pairo-me-thand-lagti-hai-vitamin-b12-ki-kami-kaise-puri-karen-12241756#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/tuptuvf4_vitamin-b12-deficiency-symptoms_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793087567.0,
+      "pubDate": "Tue, 27 Oct 2026 13:22:47 +0530"
+    },
+    {
+      "title": "हर शादी-फंक्शन में बजता है ‘बारी बरसी खटन गया सी’, क्या जानते हैं इन मशहूर पंजाबी बोलों का मतलब?",
+      "description": "शादी-ब्याह और भांगड़ा-गिद्दा की महफिलों में गूंजने वाला 'बारी बरसी खटन गया सी' सिर्फ एक डांस नंबर नहीं, बल्कि पंजाब की लोक संस्कृति से जुड़ी एक पुरानी बोली है. आप भी इस गाने पर जरूर नाचे होंगे, लेकिन क्या आप इन लाइनों का मतलब जानते हैं.",
+      "link": "https://ndtv.in/bollywood/bari-barsi-khatan-gaya-si-played-every-wedding-function-do-you-know-the-meaning-of-these-famous-punjabi-lyrics-12241733#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/upmfp8vs_band-baaja-baraat_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793087311.0,
+      "pubDate": "Tue, 27 Oct 2026 13:18:31 +0530"
+    },
+    {
+      "title": "भोपाल-ग्वालियर एक्सप्रेसवे और कटनी-सिंगरौली हाईवे की DPR की तैयारी, भूमि सर्वे शुरू, आगरा-मथुरा से दिल्ली तक कनेक्टिविटी",
+      "description": "MP New Expressways Update: भोपाल-ग्वालियर एक्सप्रेसवे और कटनी-सिंगरौली हाईवे के लिए DPR तैयार हो चुकी है. जिसके बाद अब जमीनों के सर्वे का काम तेज हो सकता है. दोनों रोड प्रोजेक्ट एमपी की कनेक्टिविटी को मजबूती देंगे.",
+      "link": "https://ndtv.in/india/bhopal-gwalior-expressway-and-katni-singrauli-highway-dpr-process-starts-555-kilometer-highway-land-survey-will-begin-12241727#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/5dpv922g_mp-expressway-news_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793087214.0,
+      "pubDate": "Tue, 27 Oct 2026 13:16:54 +0530"
+    },
+    {
+      "title": "\"कंप्यूटर जातिवादी नहीं होते...\" वाले पोस्ट पर घिरे यूपी के CEO, आपत्तिजनक भाषा के लिए मांगी माफी",
+      "description": "उत्तर प्रदेश के मुख्य निर्वाचन अधिकारी नवदीप रिणवा ने मतदाता सूची में अजीब नामों पर अपने सोशल मीडिया पोस्‍ट की भाषा को लेकर माफी मांगी है. उन्‍होंने कहा कि आगे से ऐसी भाषा का इस्‍तेमाल नहीं करेंगे.",
+      "link": "https://ndtv.in/india/up-chief-electoral-officer-navdeep-rinwa-apologizes-for-inappropriate-social-media-post-amid-voter-list-name-row-12241703#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/n35koc9c_up-voter-list_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793087209.0,
+      "pubDate": "Tue, 27 Oct 2026 13:16:49 +0530"
+    },
+    {
+      "title": "SIR पर दिवाली की छुट्टियों के बाद सुनवाई, SC ने EC के हलफनामे पर याचिकार्ताओं को जवाब के लिए दिया 10 दिन",
+      "description": "सुप्रीम कोर्ट में एसआईआर पर सुनवाई दिवाली की छुट्टियों तक के लिए टल गई है. शीर्ष अदालत ने चुनाव आयोग के हलफनामे पर जवाब देने के लिए 10 दिनों का समय दिया है.",
+      "link": "https://ndtv.in/india/sir-hearing-in-supreme-court-today-petitioners-gets-10-days-to-respond-to-eci-affidavit-12241667#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/ehupcdmk_supreme-court_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793087039.0,
+      "pubDate": "Tue, 27 Oct 2026 13:13:59 +0530"
+    },
+    {
+      "title": "झारखंड की वह नदी, जहां सोना तलाशते हैं लोग- ग्राउंड रिपोर्ट",
       "description": "झारखंड के जमशेदपुर से होकर गुज़रने वाली स्वर्णरेखा नदी के किनारे स्थानीय ग्रामीण वर्षों से नदी की मिट्टी और बालू से पारंपरिक तरीकों से सोने के सुनहरे कण निकालने का मुश्किल काम करते आ रहे हैं.",
       "link": "https://www.bbc.com/hindi/articles/c6kgl8k408w4o?at_medium=RSS&at_campaign=rss",
       "source": "",
@@ -11,175 +74,112 @@
       "pubDate": "Tue, 27 Oct 2026 07:39:37 GMT"
     },
     {
-      "title": "चुनाव आयोग के सुप्रीम कोर्ट में हलफ़नामे से क्या चीज़ें बदल जाएंगी? अब भी बचे हैं ये सवाल",
-      "description": "हलफ़नामे पर मुख्य चुनाव आयुक्त से दोनों चुनाव आयुक्त की सहमति की बात इंडियन एक्सप्रेस की रिपोर्ट से मेल नहीं खाती है, जिसमें बताया गया है कि दोनों चुनाव आयुक्तों ने एसआईआर में कई मामलों खुल असहमति दर्ज कराई थी.",
-      "link": "https://www.bbc.com/hindi/articles/cj5ynkq1zpx9o?at_medium=RSS&at_campaign=rss",
+      "title": "पीएम मोदी पर खरगे के 'बाप' वाले बयान से सपा ने बनाई दूरी, रामगोपाल बोले- भाषा पर संयम जरूरी",
+      "description": "मल्लिकार्जुन खरगे के पीएम मोदी के पिता पर की गई टिप्पणी से सपा ने असहमति जताई है. पार्टी के राज्यसभा सांसद रामगोपाल यादव का कहना है कि वह खरगे के बयान से सहमत नहीं है. राजनीति में भाषा पर संयम जरूरी है.",
+      "link": "https://ndtv.in/india/samajwadi-party-mp-ramgopal-yadav-disagree-with-remarks-made-by-mallikarjun-kharge-about-pm-modi-father-12241628#publisher=newsstand",
       "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33ad/live/ed0bdd20-d1cb-11f1-a701-fddedf244c16.jpg",
-      "timestamp": 1793084313.0,
-      "pubDate": "Tue, 27 Oct 2026 06:58:33 GMT"
+      "image": "https://c.ndtvimg.com/2026-10/vgvv356_mallikarjun-kharge-controversial-statement_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086775.0,
+      "pubDate": "Tue, 27 Oct 2026 13:09:35 +0530"
     },
     {
-      "title": "एक बार लगाएं गुड़हल का फेसपैक, दुल्हन की तरह चमक उठेगा चेहरा, जानें तैयार करने का तरीका",
-      "description": "Kaise Banaen Gudhal ka Face Pack : गुड़हल के फूल, एलोवेरा जेल और दही से घर पर आसान फेसपैक तैयार किया जा सकता है. यह त्वचा को मुलायम और नम बनाए रखने में मदद कर सकता है. इस्तेमाल से पहले पैच टेस्ट जरूर करें. दाग-धब्बे मिटने की गारंटी नहीं है.",
-      "link": "https://ndtv.in/lifestyle/kaise-banaen-gudhal-ka-face-pack-hibiscus-face-pack-at-home-for-soft-glowing-skin-12241366#publisher=newsstand",
+      "title": "नारियल तेल, बादाम का तेल, अरंडी का तेल...चेहरे पर कौन सा तेल लगाने से क्या होता है? स्किन एक्सपर्ट से जानें",
+      "description": "डर्मेटोलॉजिस्ट प्रियंका रेड्डी ने बताया है कि चेहरे पर नारियल तेल, बादम तेल आदि लगाने से क्या होता है. आइए जानते हैं इसके बारे में-",
+      "link": "https://ndtv.in/lifestyle/what-happen-when-we-apply-coconut-oil-almond-oil-castor-oil-kumkumadi-oil-on-face-know-from-expert-12241657#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/qdnsf5eo_kaise-banaen-gudhal-ka-face-pack_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793082769.0,
-      "pubDate": "Tue, 27 Oct 2026 12:02:49 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/ofp81in8_skin-care_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086409.0,
+      "pubDate": "Tue, 27 Oct 2026 13:03:29 +0530"
     },
     {
-      "title": "दिवाली से लेकर भैया दूज और छठ तक, नवंबर में कहां कितने दिन बंद रहेंगे स्कूल? पूरी लिस्ट",
-      "description": "November School Holiday List 2026: नवंबर में दिवाली समेत कई त्योहार एक साथ आ रहे हैं, ऐसे में पूरे महीने स्कूल कई दिनों के लिए बंद रहेंगे. कुछ राज्यों ने एक हफ्ते से ज्यादा की छुट्टी का ऐलान किया है.",
-      "link": "https://ndtv.in/education/november-school-holiday-list-diwali-to-chhat-puja-and-bhai-dooj-12241350#publisher=newsstand",
+      "title": "मैंने पहली बार घर में बनाई दाल मखनी, स्वाद तो आया लेकिन एक गलती ने सिखा दी बड़ी बात",
+      "description": "पहली बार घर में बनाई दाल मखनी, एक छोटी चूक ने सिखा दिया कुकिंग लेसन.",
+      "link": "https://ndtv.in/food/food-blog-dal-makhani-experience-i-made-dal-makhani-at-home-first-time-1-small-mistake-taught-me-a-big-lesson-12241217#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/sosm7kgg_school-holiday-list-_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793082745.0,
-      "pubDate": "Tue, 27 Oct 2026 12:02:25 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/ersanic4_ara_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086304.0,
+      "pubDate": "Tue, 27 Oct 2026 13:01:44 +0530"
     },
     {
-      "title": "रात के बचे चावल से सुबह बनाएं कुरकुरे ब्रेड पकोड़े का नाश्ता, बनते ही चट कर जाएंगे बच्चे",
-      "description": "रात के बचे हुए चावल फेंक रहे हैं? जरा रुकिए, इन बचे हुए चावलों से बनाएं ये टेस्टी डिश, नोट करें रेसिपी.",
-      "link": "https://ndtv.in/food/leftover-rice-nasta-recipe-bache-hue-chawal-se-kya-banaye-12241242#publisher=newsstand",
+      "title": "अमेरिका में भारतीय शेफ ने कमाई दौलत-शोहरत, फिर भी है बहुत दुखी; बोला- 'झूठ है कि पैसा खुशी देता है'",
+      "description": "अमेरिका में आलीशान घर और लग्जरी गाड़ी खरीदने के बाद भी एक भारतीय शेफ वहां अकेलेपन से जूझ रहा है. सोशल मीडिया पर वायरल इस भावुक वीडियो में उन्होंने दिखाया है कि डॉलर्स कमाने के बाद भी अपनों के बिना त्योहार कितने सूने होते हैं.",
+      "link": "https://ndtv.in/zara-hatke/indian-chef-us-diwali-video-loneliness-american-dream-instagram-viral-video-12241640#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/tlu60s5c_s_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793082601.0,
-      "pubDate": "Tue, 27 Oct 2026 12:00:01 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/kqurmng8_indian-chef-us-diwali-video-loneliness-american-dream-instagram-viral-video_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086289.0,
+      "pubDate": "Tue, 27 Oct 2026 13:01:29 +0530"
     },
     {
-      "title": "आयरन बढ़ाने वाली सबसे अच्छी सब्जियां कौन सी हैं?",
-      "description": "आयरन की कमी को दूर करने के लिए आपको न सिर्फ दवाओं पर बल्कि खानपान पर भी ध्यान देने की जरूरत होती है. मुख्य रूप से कुछ सब्जियों को डाइट में शामिल करें, यहां जानते हैं आयरन की कमी को दूर करने के लिए कौन सी सब्जियां खाएं?",
-      "link": "https://ndtv.in/food/which-vegetable-is-best-for-iron-deficiency-12241332#publisher=newsstand",
+      "title": "679 KM रेंज, कीमत 6.59 लाख से शुरू, सबसे ज्यादा बिकने वाली दो इलेक्ट्रिक कारें",
+      "description": "सितंबर 2026 में देश की बेस्ट-सेलिंग इलेक्ट्रिक कार (EV) की लिस्ट आ गई है. लोगों की पहली पसंद Tata Punch EV बनी है. हालांकि, Mahindra XEV 9S भी ज्यादा पीछे नहीं है.",
+      "link": "https://ndtv.in/auto/tata-punch-ev-leads-september-2026-sales-mahindra-xev-9s-competition-price-range-12241638#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/g0l2b6fg_vegetables-for-iron-deficiency_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793082168.0,
-      "pubDate": "Tue, 27 Oct 2026 11:52:48 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/68hv5md_mahindra-_625x300_27_October_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086266.0,
+      "pubDate": "Tue, 27 Oct 2026 13:01:06 +0530"
     },
     {
-      "title": "MLC Election LIVE: MLC चुनाव रिजल्ट के बीच यूपी से बिहार गरमाया माहौल, अनंत सिंह के घर पर 1 लाख रसगुल्ले तैयार",
-      "description": "MLC Election Results Live Update: बिहार, उत्तर प्रदेश, महाराष्ट्र और कर्नाटक में विधान परिषद की 28 सीटों पर मतगणना शुरू हो चुकी है. एमएलसी चुनावों में चारों राज्यों में कड़ी टक्कर देखने को मिली है, ऐसे में नतीजें दिलचस्प हो सकते हैं.",
-      "link": "https://ndtv.in/india/mlc-election-results-live-update-today-vote-counting-uttar-pradesh-bihar-maharashtra-breaking-news-mlc-chunav-12240491#publisher=newsstand",
+      "title": "छठ पर मां से किया वादा पूरा करने के लिए खर्च कर दी पूरी सैलरी, बिहार का युवक बोला- 'पहली बार कुछ अलग फील हुआ'",
+      "description": "शत्रुघ्न कुमार ने कहा क‍ि पहली बार फ्लाइट में बैठकर कुछ अलग फील हुआ. ये फीलिंग शब्‍दों में बयां नहीं की जा सकती.",
+      "link": "https://ndtv.in/zara-hatke/bihar-man-spent-full-salary-to-fulfill-promise-he-made-to-his-mother-for-chhath-12241604#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/fc9661uo_mlc-election-results-live-_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793082167.0,
-      "pubDate": "Tue, 27 Oct 2026 11:52:47 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/62c8ap6g_bihar-man-spent-full-salary-to-fulfill-promise-he-made-to-his-mother-for-chhath_625x300_27_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086257.0,
+      "pubDate": "Tue, 27 Oct 2026 13:00:57 +0530"
     },
     {
-      "title": "शर्मिला टैगोर-शम्मी कपूर का 60 साल पुराना गाना, कश्मीर की खूबसूरत वादियों में हुआ शूट, मोहम्मद रफी और आशा भोसले की आवाज में अमर",
-      "description": "शर्मिला टैगोर ने शक्ति सामंत की म्यूजिकल रोमांस फिल्म 'कश्मीर की कली' (1964) से बॉलीवुड में डेब्यू की. इसमें उनके साथ शम्मी कपूर थे. हालांकि आज हम शर्मिला के उस गाने के बारे में बात करने जा रहे हैं, जो कश्मीर की खूबसूरत वादियों में शूट हुआ.",
-      "link": "https://ndtv.in/bollywood/sharmila-tagore-shammi-kapoor-60-year-old-song-deewana-hua-badal-from-movie-kashmir-ki-kali-shot-in-kashmir-valleys-sung-by-mohammed-rafi-and-asha-bho-12241282#publisher=newsstand",
+      "title": "दीवाली पर नया RO खरीद रहे हैं? Wall Mount या Under Sink RO कौन सा आरओ है बेस्ट",
+      "description": "क्या आप दिवाली पर नया RO खरीदने की सोच रहे हैं? बाजार जाने से पहले एक बार इस स्टोरी को पूरा जरूर पढ़ लें.",
+      "link": "https://ndtv.in/food/diwali-ro-shopping-tips-konsa-ro-lena-chahiye-which-ro-is-best-wall-mount-or-under-sink-ro-12241447#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/nm0f6p4c_sahrmila-_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793082103.0,
-      "pubDate": "Tue, 27 Oct 2026 11:51:43 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/63valo7c_z_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086201.0,
+      "pubDate": "Tue, 27 Oct 2026 13:00:01 +0530"
     },
     {
-      "title": "JDU समाप्त हो जाएगी; राघोपुर में तेजस्वी बोले- नीतीश कुमार को लेकर जो भविष्यवाणी की थी, अब वही सच हो रही है",
-      "description": "राघोपुर दौरे पर पहुंचे राजद नेता तेजस्वी यादव ने दावा किया कि उनकी पुरानी भविष्यवाणी अब सच साबित हो रही है. उन्होंने कहा कि नीतीश कुमार मुख्यमंत्री नहीं रहेंगे और जेडीयू समाप्ति की ओर बढ़ रही है.",
-      "link": "https://ndtv.in/bihar-news/tejashwi-yadav-raghopur-visit-claims-jdu-heading-towards-end-nitish-kumar-not-cm-bihar-election-politics-anant-singh-12241291#publisher=newsstand",
+      "title": "लखनऊ ट्रिपल मर्डर: शवों के पास पिस्टल लेकर बैठा रहा आरोपी, कोई नहीं आया आगे; थाना और चौकी प्रभारी निलंबित",
+      "description": "लखनऊ में सआदतगंज के नौबस्ता में चबूतरे और पार्किंग विवाद के दौरान तीन लोगों की गोली मारकर हत्या कर दी गई. मृतक सुयश की 5 दिसंबर को शादी होने वाली थी. पुलिस ने 8 लोगों के खिलाफ हत्या का मुकदमा दर्ज किया है.",
+      "link": "https://ndtv.in/uttar-pradesh-news/lucknow-triple-murder-case-noubasta-firing-parking-dispute-inside-story-rishabh-shukla-saadatganj-up-crime-12241503#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/s4dgv1cs_tejashwi-yadav-nitish-kumar-jdu-rjd-bihar-politics_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793081857.0,
-      "pubDate": "Tue, 27 Oct 2026 11:47:37 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/8gsddaco_lucknow-triple-murder-saadatganj-noubasta-firing_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793086129.0,
+      "pubDate": "Tue, 27 Oct 2026 12:58:49 +0530"
     },
     {
-      "title": "आसाराम को रेप केस में सुप्रीम कोर्ट से झटका, आगे नहीं बढ़ी पेरोल, आज शाम तक करना होगा सरेंडर",
-      "description": "राजस्थान हाईकोर्ट से 6 अक्टूबर को आसाराम को 20 दिन की पैरोल मिली थी. जिसके बाद वह जेल से बाहर आए थे. अब उनकी पैरोल की अवधि 26 अक्टूबर को खत्म हो गई. उसे 27 अक्टूबर को शाम पांच बजे सरेंडर करना है.",
-      "link": "https://ndtv.in/india/supreme-court-has-not-extended-asaram-parole-in-rape-case-on-medical-ground-must-surrender-by-evening-12241296#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/oi00stkk_supreme-court_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793081748.0,
-      "pubDate": "Tue, 27 Oct 2026 11:45:48 +0530"
-    },
-    {
-      "title": "पाकिस्तान पर ईरान भरोसा क्यों करता है?",
-      "description": "पाकिस्तान बनने के बाद से ही अमेरिका और सऊदी का क़रीबी सहयोगी रहा है. इसके बावजूद ईरान पाकिस्तान की मध्यस्थता को स्वीकार कर रहा है और सार्वजनिक रूप से कोई अविश्वास भी नहीं है.",
-      "link": "https://www.bbc.com/hindi/articles/cmp3g2k653wlo?at_medium=RSS&at_campaign=rss",
-      "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18ad/live/0b0c14f0-d1ab-11f1-84dd-e9bba185a575.jpg",
-      "timestamp": 1793081472.0,
-      "pubDate": "Tue, 27 Oct 2026 06:11:12 GMT"
-    },
-    {
-      "title": "चैटबॉट नहीं, ये AI हैं इंसानों के लिए खतरा, साफ हो सकती है 33 प्रतिशत आबादी, गूगल के पूर्व रिसर्चर की चेतावनी",
-      "description": "NDTV World Summit 2026 में DeepMind रिसर्चर Alex Turner ने बड़ी चेतावनी दी. उन्होंने एडवांस एआई के कारण मानवता के खत्म होने की 33% आशंका जताई.",
-      "link": "https://ndtv.in/tech/ex-google-deepmind-alex-turner-ndtv-summit-which-ai-are-dangerous-for-humans-12241254#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/nap5r8ds_alex-turner_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793081313.0,
-      "pubDate": "Tue, 27 Oct 2026 11:38:33 +0530"
-    },
-    {
-      "title": "EPFO का कैंप आज 27 अक्‍टूबर, मंगलवार को कहां-कहां लगा है, PF और पेंशन की कौन-सी समस्‍याओं का तुरंत हो जाएगा समाधान? पूरी लिस्‍ट",
-      "description": "EPFO Nidhi Aapke Nikat 2.0: ईपीएफओ ने आज आपके घर के बगल में ही कैंप लगाया है, जहां आपकी समस्‍याओं का ऑन द स्‍पॉट समाधान मिल सकता है. आपके घर के पास ये कैंप कहां लगे हैं, ये हम आपको बता दे रहे हैं.",
-      "link": "https://ndtv.in/business-news/epfo-help-camp-nearby-location-search-here-nidhi-aapke-nikat-2-0-pf-epf-eps-on-the-spot-remedy-12241240#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/9v21jn8k_epfo-camp-nidhi-aapke-nikat-20_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793081143.0,
-      "pubDate": "Tue, 27 Oct 2026 11:35:43 +0530"
-    },
-    {
-      "title": "ऑडियो विवाद, बगावत और मंत्रालयों की जंग...महाराष्ट्र की महायुति सरकार में अंदरखाने मचा है घमासान",
-      "description": "महाराष्ट्र की महायुति सरकार के भीतर बढ़ती खींचतान के संकेत सामने आ रहे हैं. मनोज जरांगे ऑडियो विवाद, एकनाथ शिंदे की CM दावेदारी, MLC चुनाव और वित्त विभाग की लड़ाई ने नए सवाल खड़े कर दिए हैं.",
-      "link": "https://ndtv.in/india/maharashtra-mahayuti-internal-rift-fadnavis-shinde-power-struggle-12241216#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/c3pbe8ms_maharashtra-politics_625x300_27_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080990.0,
-      "pubDate": "Tue, 27 Oct 2026 11:33:10 +0530"
-    },
-    {
-      "title": "Jailer 2 Box Office Collection Day 12: 400 करोड़ क्लब में शामिल हुई रजनीकांत की फिल्म, Leo और 2.0 के रिकॉर्ड भी तोड़े",
-      "description": "Jailer 2 Box Office Collection Day 12: रजनीकांत की फिल्म Jailer 2 ने बॉक्स ऑफिस पर नया इतिहास रचते हुए भारत में 400 करोड़ रुपये का आंकड़ा पार कर लिया है. फिल्म ने कमाई के मामले में Leo, 2.0 और पहली Jailer को भी पीछे छोड़ दिया है.",
-      "link": "https://ndtv.in/bollywood/jailer-box-office-collection-day-12-rajinikanth-film-enters-400-crore-club-breaks-records-set-by-leo-and-2-0-12241225#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/r3237308_jailer_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080833.0,
-      "pubDate": "Tue, 27 Oct 2026 11:30:33 +0530"
-    },
-    {
-      "title": "पत्नी को अफेयर कबूलने का दबाव देना मेंटल टॉर्चर, प्रेमिका को 'छोटी बहन' मानने को मजबूर नहीं कर सकते- हाई कोर्ट",
-      "description": "झारखंड हाई कोर्ट ने एक शादी को खत्म करते हुए फैसला सुनाया कि शादी आपसी भरोसे, साथ और साझा अनुभवों पर बना एक रिश्ता है. पति-पत्नी का रिश्ता एक-दूसरे के प्रति भरोसे और सम्मान पर टिका होता है. अगर यह भरोसा टूट जाए, तो इसे ठीक नहीं किया जा सकता, क्योंकि भरोसा ही शादी की नींव है.",
-      "link": "https://ndtv.in/india/husband-forcing-wife-to-accept-extramarital-affair-is-mental-cruelty-jharkhand-high-court-12241221#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/tm16m30c_jharkhand_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080831.0,
-      "pubDate": "Tue, 27 Oct 2026 11:30:31 +0530"
-    },
-    {
-      "title": "सिर में चक्कर आना कौन सी बीमारी के लक्षण है?",
+      "title": "चक्‍कर के साथ खड़े होने में परेशानी होती है? क‍िन बीमार‍ियों का हो सकते हैं लक्षण",
       "description": "सिर में चक्कर आना हमेशा कमजोरी का संकेत नहीं होता, कुछ स्थितियों में ये बीमारियों का संकेत भी हो सकता है. यहां यूरोलॉजिस्ट से जानते हैं आखिर किन बीमारियों की वजह से सिर में चक्कर आता है?",
       "link": "https://ndtv.in/health/head-spinning-dizziness-symptom-of-which-disease-12241223#publisher=newsstand",
       "source": "",
       "image": "https://c.ndtvimg.com/2026-10/i0k8vm5c_dizziness-symptoms_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080783.0,
-      "pubDate": "Tue, 27 Oct 2026 11:29:43 +0530"
+      "timestamp": 1793085734.0,
+      "pubDate": "Tue, 27 Oct 2026 12:52:14 +0530"
     },
     {
-      "title": "भारत-अमेरिका ट्रेड डील पर बड़ी खबर, बातचीत का बड़ा हिस्सा पूरा, पीयूष गोयल और मार्को रुबियो ने दिया अपडेट",
-      "description": "भारत-अमेरिका ट्रेड डील पर व्हाइट हाउस ने बातचीत को सकारात्मक बताया. पीयूष गोयल के मुताबिक, वार्ता का बड़ा हिस्सा पूरा हो चुका है. जानें टैरिफ और 500 अरब डॉलर की खरीद के लक्ष्‍य के बारे में.",
-      "link": "https://ndtv.in/business-news/india-us-trade-deal-talks-positive-piyush-goyal-marco-rubio-says-most-issues-covered-12241082#publisher=newsstand",
+      "title": "दिवाली से पहले महंगाई का झटका! घी 35 तो गुलाबजामुन 30 रुपये महंगा, दही, लस्‍सी, मक्‍खन समेत 63 चीजों के बढ़ गए दाम",
+      "description": "Dairy Products Price Hike: तमिलनाडु में डेयरी कंपनी Aavin ने दिवाली से पहले 63 प्रोडक्ट्स के दाम बढ़ा दिए हैं. इसने घी, मक्खन, दही, लस्सी और मिठाइयों की नई कीमतें जारी की हैं. यहां हम लिस्‍ट दे रहे हैं, जहां आप चेक कर सकते हैं कि दाम कितने बढ़ गए हैं.",
+      "link": "https://ndtv.in/business-news/dairy-63-products-price-hike-before-diwali-ghee-cheese-sweets-paneer-milkshakes-gets-costlier-from-28-october-in-tamil-nadu-by-aavin-dairy-12241591#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-03/3kqqshtg_trump-modi-india-us-trade-deal_625x300_12_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080655.0,
-      "pubDate": "Tue, 27 Oct 2026 11:27:35 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/4dg9c60k_-aavin-price-hike-before-diwali-ghee-butter-sweets-among-63-products-costlier_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793085725.0,
+      "pubDate": "Tue, 27 Oct 2026 12:52:05 +0530"
     },
     {
-      "title": "Aaj ka Panchang 27 October 2026: उत्तर दिशा में यात्रा करने से बचें, नोट करें शुभ मुहूर्त, राहुकाल और पूरा पंचांग",
-      "description": "आज कार्तिक माह के कृष्ण पक्ष प्रतिपदा तिथि सोमवार को सुबह 9:41 बजे से शुरू होकर मंगलवार सुबह 7:01 बजे तक रहेगी. इस दिन सूर्य देव स्वाति नक्षत्र में रहेंगे. वहीं, सुबह 10:52 बजे तक सिद्धि योग रहेगा, इसके बाद व्यतिपात योग शुरू हो जाएगा.",
-      "link": "https://ndtv.in/faith/aaj-ka-panchang-27-october-2026-tithi-shubh-muhurat-rahukal-nakshatra-yog-mangalwar-ka-panchang-12238619#publisher=newsstand",
+      "title": "दीवाली पर बनाएं रागी समोसा, मेहमान भी मांगेंगे इस हेल्दी और क्रिस्पी समोसे की रेसिपी, कर लें नोट",
+      "description": "अगर आप दिवाली के स्नैक्स में कुछ हेल्दी बनाने का सोच रहे हैं, तो इस रेसिपी को जरूर नोट करें. बच्चे से लेकर बड़े तक सब चाट जाएंगे.",
+      "link": "https://ndtv.in/food/diwali-healthy-snacks-ragi-samosa-recipe-ragi-samosa-kaise-banate-hain-12241587#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/r1drg2io_aaj-ka-panchang-27-october-2026_625x300_26_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080637.0,
-      "pubDate": "Tue, 27 Oct 2026 11:27:17 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/it1ao3ic_z_625x300_27_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793085715.0,
+      "pubDate": "Tue, 27 Oct 2026 12:51:55 +0530"
     },
     {
-      "title": "शाहबेरी में बनेगा यूपी का पहला डबल-डेकर एलिवेटेड रोड, सिद्धार्थ विहार-बहरामपुर से गौर सिटी तक तेज रफ्तार, ग्रेटर नोएडा वेस्ट से गाजियाबाद तक हाईस्पीड कनेक्टिविटी",
-      "description": "शाहबेरी में डबल डेकर एलिवेटेड रोड बनाने पर मुहर लग गई है. इससे दिल्ली, नोएडा, ग्रेटर नोएडा और गाजियाबाद तक हाईस्पीड कनेक्टिविटी का रास्ता साफ हो गया. गाजियाबाद के विजय नगर, सिद्धार्थ विहार, हैबतपुर, बहरामपुर तक इसका लाभ मिलेगा.",
-      "link": "https://ndtv.in/india/shahberi-double-decker-elevated-road-high-speed-connectivity-from-greater-noida-west-to-ghaziabad-in-seemless-traffic-in-delhi-ncr-12241190#publisher=newsstand",
+      "title": "क्या चायपत्ती खाने से दस्त रुक जाता है?",
+      "description": "चाय पत्ती खाने से क्या दस्त की परेशानी दूर हो सकती है? इस बारे में जानने के लिए हमने डॉक्टर से बात की. यहां जानते हैं इस बारे में-",
+      "link": "https://ndtv.in/food/does-tea-leaves-stop-loose-motion-12240539#publisher=newsstand",
       "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/vsidskc4_shahberi-double-decker-elevated-road-_625x300_27_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793080330.0,
-      "pubDate": "Tue, 27 Oct 2026 11:22:10 +0530"
+      "image": "https://c.ndtvimg.com/2026-10/d6fcp0tk_tea-leaves-for-diarrhea_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793085651.0,
+      "pubDate": "Tue, 27 Oct 2026 12:50:51 +0530"
     }
   ]
 }
