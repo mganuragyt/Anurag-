@@ -1,14 +1,23 @@
 {
-  "updated": "2026-10-28T10:24:32.035766+00:00",
+  "updated": "2026-10-28T11:09:02.305562+00:00",
   "news": [
+    {
+      "title": "साइक्लोन 'अर्नब' ने पार किया आंध्र का तट, अब किन इलाक़ों में भारी बारिश का ख़तरा?",
+      "description": "बहुत गंभीर चक्रवाती तूफ़ान अर्नब ने बुधवार सुबह आंध्र प्रदेश और यनम के तट को पार कर लिया. मौसम विभाग के मुताबिक़, लैंडफॉल के दौरान हवा की रफ़्तार 125-135 किमी/घंटे तक रही और झोंके 150 किमी/घंटे तक पहुंचे.",
+      "link": "https://www.bbc.com/hindi/articles/cr62y0p6w1d7o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa0f/live/16498720-d2bf-11f1-bd17-fbcee4e93744.jpg",
+      "timestamp": 1793185669.0,
+      "pubDate": "Wed, 28 Oct 2026 11:07:49 GMT"
+    },
     {
       "title": "स्पेन में दो ट्रेनें टकराईं, कम से कम 10 लोगों की मौत; अब तक जो पता है",
       "description": "स्पेन के प्रधानमंत्री पेद्रो सांचेज़ ने कहा है कि वह टोलेडो में हुए \"भीषण रेल हादसे से स्तब्ध\" हैं.",
       "link": "https://www.bbc.com/hindi/articles/ck4g15wjv93no?at_medium=RSS&at_campaign=rss",
       "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5019/live/680c8300-d2b5-11f1-93e1-3b657b665bcf.jpg",
-      "timestamp": 1793181361.0,
-      "pubDate": "Wed, 28 Oct 2026 09:56:01 GMT"
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a55/live/e8cae5f0-d2b9-11f1-8cf0-c5d120932f9f.jpg",
+      "timestamp": 1793185207.0,
+      "pubDate": "Wed, 28 Oct 2026 11:00:07 GMT"
     },
     {
       "title": "57 साल पुराना किशोर कुमार का रोमांटिक गाना, जो पति-पत्नी के रिश्ते पर बैठता है फिट, लता-मोहम्मद की आवाज में अमर",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/8bq3e7is_british-youtuber-darcy-and-father-south-india-bike-trip-rural-lifestyle-experience_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793178432.0,
       "pubDate": "Wed, 28 Oct 2026 14:37:12 +0530"
-    },
-    {
-      "title": "Adani Ports Results: आय 24 फीसदी बढ़ी, मुनाफा 3622 करोड़ हुआ, लॉजिस्टिक और मरीन बिजनेस ग्रोथ से मिला अदाणी पोर्ट्स को सपोर्ट",
-      "description": "Adani Ports ने पूरे वित्त वर्ष 27 के लिए आय की गाइडेंस को बढ़ाकर 46,000 करोड़ रुपये कर दिया है. वहीं, EBITDA गाइडेंस को भी 26-27 हजार करोड़ रुपये कर दिया है.",
-      "link": "https://ndtv.in/business-news/adani-ports-q2-results-company-raises-fy27-guidance-after-profit-rises-logistics-international-ports-drive-growth-12247655#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/10t1arlc_adani_625x300_28_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793178418.0,
-      "pubDate": "Wed, 28 Oct 2026 14:36:58 +0530"
     }
   ]
 }
