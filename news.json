@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-28T18:07:59.640674+00:00",
+  "updated": "2026-10-28T18:54:02.435379+00:00",
   "news": [
+    {
+      "title": "AI ने लड़की को दी दवा की खुराक कम करने की सलाह, हो गई मौत, परिवार ने ChatGPT पर ठोका मुकदमा",
+      "description": "अमेरिका की महिला इंजीनियर को AI ने दवा का डोज कम करने की सलाह दी. इसके बाद उसकी मौत हो गई. इसे लेकर महिला के परिवार ने OpenAI और CEO सैम ऑल्टमैन के खिलाफ मुकदमा दायर किया है.",
+      "link": "https://ndtv.in/world-news/family-sues-openai-after-seattle-engineer-death-alleges-chatgpt-encouraged-reduction-of-epilepsy-medication-12250836#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/hrma9to8_chatgpt_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793212193.0,
+      "pubDate": "Wed, 28 Oct 2026 23:59:53 +0530"
+    },
+    {
+      "title": "Success Story: सब कहते थे बेटी की शादी कर दो, HCS पास कर अफसर बनी अन्नू , पिता से लिपटकर फूट-फूटकर रोई",
+      "description": "Success Story: हरियाणा के जींद की अन्नू कटारिया ने सात असफलताओं और पहले प्रयास में चार अंकों से चूकने के बावजूद हार नहीं मानी. दूसरे प्रयास में HCS परीक्षा में 95वीं रैंक हासिल की. गांव पहुंचने पर उनका भव्य स्वागत हुआ और पिता से मिलकर वह भावुक हो गईं.",
+      "link": "https://ndtv.in/education/hcs-success-story-annu-kataria-rank-95-jind-haryana-12250739#publisher=newsstand",
+      "source": "",
+      "image": "https://c.ndtvimg.com/2026-10/deroinsg_hcs-success-story-annu-kataria-rank-95-jind-haryana_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "timestamp": 1793210341.0,
+      "pubDate": "Wed, 28 Oct 2026 23:29:01 +0530"
+    },
     {
       "title": "MLC Result LIVE: यूपी में बीजेपी को लगा बड़ा झटका, लखनऊ में स्नातक MLC सीट पर जीते सपा के कांति सिंह",
       "description": "MLC Election Results Live Update: बिहार, उत्तर प्रदेश, महाराष्ट्र और कर्नाटक में विधान परिषद की 28 सीटों पर मतगणना हो रही है. पटना में राजद के डॉ. संजीव कुमार ने बीजेपी के नवल किशोर यादव का किला ढहाते हुए जीत कर ली है.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/6746792o_jee-exams_625x300_27_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793202764.0,
       "pubDate": "Wed, 28 Oct 2026 21:22:44 +0530"
-    },
-    {
-      "title": "सुप्रीम कोर्ट का चुनाव आयोग से सवाल- 'पहले से वोटर रहे लोगों से फ़ॉर्म 6 क्यों भरवाया जा रहा है?'",
-      "description": "दिल्ली एसआईआर में ड्राफ्ट वोटर लिस्ट से बाहर हुए लोगों को दोबारा नाम जुड़वाने के लिए फ़ॉर्म 6 भरने को कहा जा रहा है. सुप्रीम कोर्ट ने इस प्रक्रिया पर सवाल उठाया है.",
-      "link": "https://www.bbc.com/hindi/articles/crx23egze4q7o?at_medium=RSS&at_campaign=rss",
-      "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c509/live/61df56d0-d2e0-11f1-8af5-e1db7ad65222.png",
-      "timestamp": 1793202713.0,
-      "pubDate": "Wed, 28 Oct 2026 15:51:53 GMT"
-    },
-    {
-      "title": "ओडिशा, आंध्र और छत्तीसगढ़ तक पहुंचा साइक्लोन अर्नब, दिल्ली-यूपी-बिहार तक असर, कल यहां बरपाएगा कहर",
-      "description": "मौसम विभाग ने साइक्लोन अर्नब को लेकर मध्य प्रदेश, दिल्ली, बिहार, झारखंड, ओडिशा, तेलंगाना और छत्तीसगढ़ समेत कई राज्यों में बारिश की चेतावनी जारी की है.",
-      "link": "https://ndtv.in/india/cyclone-arnab-reaches-odisha-andhra-and-chhattisgarh-its-impact-delhi-up-and-bihar-12250128#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/9shgqbfk_arnav_625x300_28_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793202463.0,
-      "pubDate": "Wed, 28 Oct 2026 21:17:43 +0530"
     }
   ]
 }
