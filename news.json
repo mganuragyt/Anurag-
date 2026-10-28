@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-28T12:31:02.537903+00:00",
+  "updated": "2026-10-28T13:37:22.835605+00:00",
   "news": [
+    {
+      "title": "'इतना भयानक सूखा कभी नहीं देखा': लातूर में कैसे हैं हालात? ग्राउंड रिपोर्ट",
+      "description": "इस बार महाराष्ट्र के लातूर में भयानक सूखा पड़ा है. इतना कि सोयाबीन की तकरीबन पूरी फ़सल नष्ट हो गई है. ये रिपोर्ट इसी नुकसान और सूखे के कारणों के बारे में बात करती है.",
+      "link": "https://www.bbc.com/hindi/articles/cvde8445jxg9o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a069/live/f3a82060-d204-11f1-b3b6-c1e79e957e40.png",
+      "timestamp": 1793194005.0,
+      "pubDate": "Wed, 28 Oct 2026 13:26:45 GMT"
+    },
+    {
+      "title": "स्पेन में दो ट्रेनों की टक्कर, स्थानीय प्रशासन ने 30 लोगों की मौत की पुष्टि की",
+      "description": "स्पेन में दो हाई-स्पीड ट्रेनों की टक्कर में कम से कम 30 लोगों की मौत हुई है. दोनों ट्रेनों में कुल मिलाकर 500 से ज़्यादा यात्री सवार थे और राहत-बचाव अभियान जारी है.",
+      "link": "https://www.bbc.com/hindi/articles/ck4g15wjv93no?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/311a/live/67b17dd0-d2cd-11f1-b677-b762d2f83f6e.jpg",
+      "timestamp": 1793191530.0,
+      "pubDate": "Wed, 28 Oct 2026 12:45:30 GMT"
+    },
     {
       "title": "जामिया मिल्लिया: अलीगढ़ से दिल्ली कैसे आई वो यूनिवर्सिटी, जिसके लिए गांधी भीख मांगने को तैयार थे",
       "description": "अलीगढ़ में शुरू हुई जामिया मिल्लिया इस्लामिया पर एक वक़्त बंद होने का ख़तरा मंडराने लगा था. फिर इसे दिल्ली लाने और बचाने की कोशिशों में महात्मा गांधी समेत कई बड़े नाम जुड़े. आखिर जामिया कैसे इस संकट से निकला?",
@@ -9,15 +27,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dae9/live/db695430-d2b6-11f1-8cf0-c5d120932f9f.jpg",
       "timestamp": 1793189321.0,
       "pubDate": "Wed, 28 Oct 2026 12:08:41 GMT"
-    },
-    {
-      "title": "स्पेन में दो ट्रेनें टकराईं, कई लोगों के मरने की आशंंका",
-      "description": "स्पेन के प्रधानमंत्री पेद्रो सांचेज़ ने कहा है कि वह टोलेडो में हुए \"भीषण रेल हादसे से स्तब्ध\" हैं.",
-      "link": "https://www.bbc.com/hindi/articles/ck4g15wjv93no?at_medium=RSS&at_campaign=rss",
-      "source": "",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a55/live/e8cae5f0-d2b9-11f1-8cf0-c5d120932f9f.jpg",
-      "timestamp": 1793187849.0,
-      "pubDate": "Wed, 28 Oct 2026 11:44:09 GMT"
     },
     {
       "title": "पंजाब से बिहार और बंगाल के लिए चलेगी 5 स्पेशल ट्रेन, सहरसा-दरभंगा-गया-कोलकाता होगा रूट, देंखें पूरा शेड्यूल",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/8uc0kn64_delhi-mcd-suvidha-centre-rk-puram_625x300_28_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793183692.0,
       "pubDate": "Wed, 28 Oct 2026 16:04:52 +0530"
-    },
-    {
-      "title": "बिना डाई के बाल कैसे काले करें? मेहंदी के बिना सफेद बालों को कैसे काला करें, यह रहा रामबाण नुस्‍खा",
-      "description": "बालों को कुदरती काला कैसे करें? सफेद बाल हो गए हैं और ब‍िना डाई काला करना चाहते हैं, तो मशहूर आयुर्वेदिक डॉक्टर सलीम जैदी से जान‍िए यह रामबाण नुस्‍खा.",
-      "link": "https://ndtv.in/lifestyle/how-to-make-hair-black-naturally-without-dye-safed-baal-kaise-kale-kare-12248176#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/7uullit8_1_625x300_28_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793183678.0,
-      "pubDate": "Wed, 28 Oct 2026 16:04:38 +0530"
     }
   ]
 }
