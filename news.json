@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-29T09:18:45.475273+00:00",
+  "updated": "2026-10-29T10:15:10.037809+00:00",
   "news": [
+    {
+      "title": "इसराइल: चुनाव ने समाज के गहरे मतभेद उजागर किए, अरब पार्टियों ने दिखाया अपना दम",
+      "description": "इसराइल में हुए चुनाव के बाद फिलहाल किसी भी गठबंधन को सरकार बनाने के लिए स्पष्ट बहुमत मिलता नहीं दिख रहा है. लेकिन वोटिंग पैटर्न से एक बात साफ़ है कि इसराइली समाज में मतभेद गहरे हो रहे हैं.",
+      "link": "https://www.bbc.com/hindi/articles/c64g189np9w9o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ece2/live/9d07d390-d37b-11f1-bf63-739fb2907d03.jpg",
+      "timestamp": 1793266400.0,
+      "pubDate": "Thu, 29 Oct 2026 09:33:20 GMT"
+    },
     {
       "title": "MLC चुनाव : पटना शिक्षक सीट पर महज 21 वोट, सिटिंग सीट भी गंवाई.. कांग्रेस बिहार में हुई बेहाल",
       "description": "बिहार में 8 सीटों पर हुए एमएलसी चुनाव में कांग्रेस ने पूरा जोर लगाया था. लेकिन नतीजे पार्टी के लिए चौंकाने वाले रहे हैं. कई जगह तो पार्टी के कैंडिडेट मुकाबले में ही नहीं दिखे.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/mbhmklcg_karach_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793258157.0,
       "pubDate": "Thu, 29 Oct 2026 12:45:57 +0530"
-    },
-    {
-      "title": "PhD एडमिशन पर DU के बाद अब JNU में विवाद, SFI ने लगाए ये आरोप",
-      "description": "JNU PhD Admission Controversy: जेएनयू में चल रहे पीएचडी एडमिशन में आरक्षण नियमों की अनदेखी के आरोप लगाए जा रहे हैं. छात्र संगठन एसएफआई ने ये आरोप लगाए हैं.",
-      "link": "https://ndtv.in/education/jnu-phd-admission-controversy-sfi-allegations-correction-of-seat-allocation-12252490#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/b1jb3j6g_jnu-phd-admission_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793257872.0,
-      "pubDate": "Thu, 29 Oct 2026 12:41:12 +0530"
     }
   ]
 }
