@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T14:34:26.760284+00:00",
+  "updated": "2026-10-30T15:28:12.760899+00:00",
   "news": [
+    {
+      "title": "बद्रीनाथ से देहरादून आ रहा हेलीकॉप्टर क्रैश, मारे गए यात्रियों के बारे में क्या पता है",
+      "description": "अधिकारियों के मुताबिक हादसे में हेलीकॉप्टर में सवार पांच यात्रियों और पायलट समेत सभी छह लोगों की मौत हो गई. दुर्घटना जोशीमठ के पास हाथी पहाड़ और चाई गांव के ऊपर उच्च हिमालयी क्षेत्र में हुई.",
+      "link": "https://www.bbc.com/hindi/articles/cm4g19q571glo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bef8/live/a9bbc6b0-d46f-11f1-9dda-1ba6fcc7d159.jpg",
+      "timestamp": 1793373222.0,
+      "pubDate": "Fri, 30 Oct 2026 15:13:42 GMT"
+    },
     {
       "title": "'हम बच्चों के साथ न्याय नहीं कर पा रहे हैं', देश में एक लाख से ज़्यादा सिंगल टीचर स्कूल",
       "description": "भारत के 'सिंगल-टीचर स्कूलों' में शिक्षकों के बीच बच्चों को ठीक से न पढ़ा पाने की निराशा और अपनी चिंता जाहिर करने का डर आम बात है. बीबीसी की ख़ास पेशकश.",
@@ -171,15 +180,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
       "timestamp": 1793364163.0,
       "pubDate": "Fri, 30 Oct 2026 12:42:43 GMT"
-    },
-    {
-      "title": "तीन बच्चों की मां की मांग में जबरन सिंदूर भरने वाला पकड़ा गया, पुलिस ने आरोपी और महिला के बारे में क्या बताया",
-      "description": "समस्तीपुर में एक महिला की मांग में जबरदस्ती सिंदूर भरने के मामले में मुख्य आरोपी कुंदन कुमार को गिरफ्तार कर लिया गया है. बाकी आरोपियों की तलाश खी जा रही है.",
-      "link": "https://ndtv.in/bihar-news/bihar-samastipur-woman-forcibly-applied-sindoor-kundan-arrested-12259340#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/qrjs48o4_samastipur_625x300_30_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793363740.0,
-      "pubDate": "Fri, 30 Oct 2026 18:05:40 +0530"
     }
   ]
 }
