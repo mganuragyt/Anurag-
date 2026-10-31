@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-31T12:01:42.883741+00:00",
+  "updated": "2026-10-31T12:53:11.995647+00:00",
   "news": [
+    {
+      "title": "यूपी में सरकारी नौकरी की भर्ती प्रक्रिया से जुड़े इस नए नियम पर क्यों उठ रहे सवाल?",
+      "description": "उत्तर प्रदेश सरकार के इस आदेश में ऐसा क्या है और इसके किस प्रावधान को राज्य की विपक्षी पार्टियां और छात्र संगठन असंवैधानिक बता रहे हैं?",
+      "link": "https://www.bbc.com/hindi/articles/c6d7qp499p45o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c8d/live/dce1c030-d523-11f1-b9b6-63098f5263b3.jpg",
+      "timestamp": 1793449660.0,
+      "pubDate": "Sat, 31 Oct 2026 12:27:40 GMT"
+    },
+    {
+      "title": "इसराइल में बिन्यामिन नेतन्याहू के ख़िलाफ़ अरब पार्टियों को इतनी सीटें क्यों मिलीं?- द लेंस",
+      "description": "इसराइल में बंटे हुए इस जनादेश का क्षेत्रीय और वैश्विक मोर्चों पर कैसा असर पड़ेगा. ऐसे ही कुछ सवालों पर इस बार द लेंस में कलेक्टिव न्यूज़रूम के डायरेक्टर ऑफ जर्नलिज़्म मुकेश शर्मा ने चर्चा की है.",
+      "link": "https://www.bbc.com/hindi/watch/c6zxj2v20dyxo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5c1/live/f61ac240-d51e-11f1-b9b6-63098f5263b3.jpg",
+      "timestamp": 1793448152.0,
+      "pubDate": "Sat, 31 Oct 2026 12:02:32 GMT"
+    },
     {
       "title": "चुनाव चोरी की साजिश, 13 करोड़ नाम काटे... 'मॉक पार्लियामेंट' में CEC ज्ञानेश कुमार पर 6 बड़े आरोप",
       "description": "मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ विपक्ष शनिवार को 'जन महाभियोग' कार्यक्रम कर रही है. इसमें कांग्रेस की ओर से 6 बड़े आरोप लगाए गए हैं.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/0ejkmjko_cm-omer-marrriage-_625x300_31_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793443790.0,
       "pubDate": "Sat, 31 Oct 2026 16:19:50 +0530"
-    },
-    {
-      "title": "अमेरिका को G20 की 'फैमिली फोटो' रद्द करनी पड़ी, एक साथ चल रहे दो विवाद",
-      "description": "बैठक में शामिल लोगों का कहना है कि इन असहमतियों के कारण शनिवार को बैठक खत्म होने पर विदेश मंत्रियों की ओर से कोई संयुक्त बयान जारी होने की संभावना नहीं है.",
-      "link": "https://ndtv.in/world-news/us-had-to-cancel-the-g20-family-photo-due-to-two-ongoing-controversies-12263346#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/rcpqueu_g20_625x300_31_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793443766.0,
-      "pubDate": "Sat, 31 Oct 2026 16:19:26 +0530"
-    },
-    {
-      "title": "पहली बार पूछी जाएगी जाति, 13 सवाल नए होंगे, डेढ़ महीने तक चलेगी जनगणना... जानें खास बातें",
-      "description": "देश में 25 जनवरी से 28 फरवरी 2027 तक जनगणना का काम होगा. देश में पहली बार डिजिटल जनगणना होने वाली है.",
-      "link": "https://ndtv.in/india/census-2027-dates-schedule-questions-list-caste-census-12263307#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/v3jn05l8_census-2027_625x300_31_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793443355.0,
-      "pubDate": "Sat, 31 Oct 2026 16:12:35 +0530"
     }
   ]
 }
