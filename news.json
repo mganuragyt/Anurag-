@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-02T11:58:10.501662+00:00",
+  "updated": "2026-11-02T12:52:25.782005+00:00",
   "news": [
+    {
+      "title": "ट्रंप के सामने भी वही आर्थिक चुनौती, जिसने बाइडन को सत्ता से बाहर कर दिया था",
+      "description": "अमेरिका के आर्थिक आंकड़े बहुत खराब नहीं दिखते, लेकिन वहां की जनता की राय कुछ और ही कहानी बयां कर रही है.",
+      "link": "https://www.bbc.com/hindi/articles/cv62y94g1645o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
+      "timestamp": 1793622031.0,
+      "pubDate": "Mon, 02 Nov 2026 12:20:31 GMT"
+    },
     {
       "title": "'तीन करोड़ घुसपैठिये हैं, वोटर लिस्ट से हटाकर रहेंगे', अमित शाह ने राहुल गांधी को एक ऑफर भी दिया",
       "description": "केंद्रीय गृह मंत्री अमित शाह ने राहुल गांधी के आरोपों को खारिज करते हुए मतदाता सूची और घुसपैठियों के मुद्दे पर जवाब दिया.",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-11/29f0t89o_india_625x300_02_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793615465.0,
       "pubDate": "Mon, 02 Nov 2026 16:01:05 +0530"
-    },
-    {
-      "title": "मुजफ्फरपुर में नाले के निर्माण के दौरान गैस पाइपलाइन में धमाका, एक की मौत, 3 लोग गंभीर रूप से घायल",
-      "description": "बिहार के मुजफ्फरपुर में बड़ा हादसा हुआ है. नाले के निर्माण कार्य के दौरान एक पाइपलाइन में भीषण विस्फोट हो गया. हादसे में तीन लोगों के गंभीर रूप से घायल होने की खबर है.",
-      "link": "https://ndtv.in/bihar-news/muzaffarpur-gas-pipeline-explosion-during-drain-construction-leaves-many-seriously-injured-12270750#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-11/7bte9soc_bihar-news_625x300_02_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793615428.0,
-      "pubDate": "Mon, 02 Nov 2026 16:00:28 +0530"
     }
   ]
 }
