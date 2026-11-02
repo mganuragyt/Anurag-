@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-02T01:45:22.129911+00:00",
+  "updated": "2026-11-02T02:39:57.634855+00:00",
   "news": [
+    {
+      "title": "शाहरुख़ ख़ान: 'बाज़ीगर' से लेकर 'जवान' तक, एंटी हीरो से सुपरस्टार तक",
+      "description": "हिंदी फ़िल्मों के किंग ख़ान शाहरुख़ ख़ान के जन्मदिन पर पढ़िए यह विशेष लेख.",
+      "link": "https://www.bbc.com/hindi/articles/cw4dy7v9d1no?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5404/live/e183e1d0-78e3-11ee-a503-4588075e3427.jpg",
+      "timestamp": 1793586942.0,
+      "pubDate": "Mon, 02 Nov 2026 02:35:42 GMT"
+    },
+    {
+      "title": "रामलीला मैदान: कांग्रेस को क्या मिला, विपक्षी एकता की राह में क्या हैं चुनौतियां?",
+      "description": "विश्लेषकों के मुताबिक 'वोट चोरी' के आरोप को चुनावी मुद्दा बनाने की कोशिश के बीच विपक्षी एकता की असली परीक्षा तो अभी शुरू नहीं हुई है.",
+      "link": "https://www.bbc.com/hindi/articles/cm040yxd6k3qo?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29e2/live/76320c10-d65d-11f1-bb46-3fc67180aca9.jpg",
+      "timestamp": 1793583969.0,
+      "pubDate": "Mon, 02 Nov 2026 01:46:09 GMT"
+    },
     {
       "title": "अमेरिका के फ्लोरिडा में जेट विमान हादसे का शिकार, सभी 9 लोगों की मौत, VIDEO",
       "description": "फ्लोरिडा में नौ लोगों को ले जा रहा एक बिजनेस जेट रविवार को हादसे का शिकार हो गया. इस घटना में सभी नौ लोगों की मौत हो गई.",
@@ -162,24 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-11/5k71dopc_preeti-adani_625x300_02_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793558717.0,
       "pubDate": "Mon, 02 Nov 2026 00:15:17 +0530"
-    },
-    {
-      "title": "पंजाब की 37.43 लाख महिलाओं के खातों में पहुंचे 1,291 करोड़ रुपये, भगवंत मान बोले- 1 जनवरी को मिलेगा नया तोहफा",
-      "description": "पंजाब के मुख्यमंत्री भगवंत सिंह मान ने 'मुख्यमंत्री मां-धियां सत्कार योजना' के तहत 37.43 लाख से अधिक महिलाओं के बैंक खातों में 1,291 करोड़ रुपये की सम्मान राशि ट्रांसफर की. अबोहर में आयोजित कार्यक्रम में उन्होंने बताया कि योजना के तहत अब तक 80 लाख से ज्यादा महिलाओं का पंजीकरण हो चुका है.",
-      "link": "https://ndtv.in/punjab-news/punjab-government-transfers-over-one-thousand-two-hundred-crore-rupees-to-women-under-maa-satykaar-scheme-12268539#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-11/0gc1o9mg_india_625x300_02_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793558204.0,
-      "pubDate": "Mon, 02 Nov 2026 00:06:44 +0530"
-    },
-    {
-      "title": "अल नीनो का दुनिया में खौफ, बोलिविया में लगी इमरजेंसी, भारत भी नहीं अछूता, जानिए किस देश की कैसी तैयारी",
-      "description": "भारत के वित्त मंत्रालय की अक्टूबर 2026 की मासिक आर्थिक समीक्षा के अनुसार, भारत में महंगाई के मोर्चे पर अभी भी कई जोखिम बने हुए हैं. इनमें कच्चे तेल की ऊंची कीमतें, समुद्री माल ढुलाई मार्गों में रुकावटें और 'अल नीनो' के कारण कृषि क्षेत्र में संभावित व्यवधान शामिल हैं.",
-      "link": "https://ndtv.in/world-news/el-nino-sparks-global-alarm-bolivia-declares-a-state-of-emergency-india-is-not-unaffected-find-out-how-countries-are-preparing-12268528#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-10/eetppags_el-nino_625x300_08_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793557854.0,
-      "pubDate": "Mon, 02 Nov 2026 00:00:54 +0530"
     }
   ]
 }
