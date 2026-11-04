@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-04T07:55:41.209922+00:00",
+  "updated": "2026-11-04T08:46:31.870253+00:00",
   "news": [
+    {
+      "title": "सर्दियां शुरू होते ही हर साल दिल्ली की हवा इतनी ख़राब क्यों हो जाती है?",
+      "description": "दिल्ली की हवा लगातार ख़राब हो रही है. सर्दियां आते ही प्रदूषण बढ़ जाता है. मगर ये हर साल क्यों होता है? सरकार इसके लिए जो कोशिश कर रही है क्या वो सफल क्यों नहीं हो रही है?",
+      "link": "https://www.bbc.com/hindi/articles/c35yn44vnv45o?at_medium=RSS&at_campaign=rss",
+      "source": "",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/050d/live/9574f230-d79e-11f1-84dd-e55f4bec0ecd.jpg",
+      "timestamp": 1793779253.0,
+      "pubDate": "Wed, 04 Nov 2026 08:00:53 GMT"
+    },
     {
       "title": "अमेरिका के पहले मुस्लिम सीनेटर बन सकते हैं अब्दुल अल-सैयद",
       "description": "अमेरिका के पहले मुस्लिम सीनेटर बनने जा रहे अब्दुल अल-सैयद ने कैसे तय किया डेट्रॉइट से अमेरिकी सीनेट तक का सफर? डॉक्टर से राजनेता बने अल-सैयद की जीत क्यों है खास?",
@@ -171,15 +180,6 @@
       "image": "https://c.ndtvimg.com/2026-10/km7nagf4_trading_625x300_12_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "timestamp": 1793772628.0,
       "pubDate": "Wed, 04 Nov 2026 11:40:28 +0530"
-    },
-    {
-      "title": "सदर बाजार-लाल किला से चांदनी चौक तक जल संकट दूर होगा, दिल्ली के चंद्रावल में 600 करोड़ का वॉटर ट्रीटमेंट प्लांट तैयार, 20 लाख लोगों को फायदा",
-      "description": "दिल्ली के चंद्रावल में बड़ा सीवेज ट्रीटमेंट प्लांट तैयार हो रहा है. लाल किला, करोल बाग, सदर बाजार से लेकर बल्लीमारान तक इससे जल संकट दूर होगा. राजधानी दिल्ली में यमुना सफाई अभियान भी इससे मजबूत होगा.",
-      "link": "https://ndtv.in/utility-news/chandrawal-water-treatment-plant-boost-old-delhi-water-supply-and-yamuna-cleaning-mission-says-delhi-jal-board-12280693#publisher=newsstand",
-      "source": "",
-      "image": "https://c.ndtvimg.com/2026-11/nlgi17f8_chandrawal-water-treatment-plant-delhi_625x300_04_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "timestamp": 1793772581.0,
-      "pubDate": "Wed, 04 Nov 2026 11:39:41 +0530"
     }
   ]
 }
